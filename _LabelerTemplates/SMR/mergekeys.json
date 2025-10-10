@@ -1,0 +1,3322 @@
+{
+  "ab": {
+    "termId": "ab",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "abilene": {
+    "termId": "Ἀβιληνή",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "accad": {
+    "termId": "אַכַּד",
+    "mapxKey": "ACCAD",
+    "altTermIds": ""
+  },
+  "acco": {
+    "termId": "עַכּוֹ",
+    "mapxKey": "Acco",
+    "altTermIds": ""
+  },
+  "achaia": {
+    "termId": "Ἀχαΐα",
+    "mapxKey": "ACHAIA",
+    "altTermIds": ""
+  },
+  "acts_2_10": {
+    "termId": "acts_2_10",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "adar": {
+    "termId": "adar",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "adramyttium": {
+    "termId": "Ἀδραμυττηνός",
+    "mapxKey": "Adramyttium",
+    "altTermIds": ""
+  },
+  "adriatic_sea": {
+    "termId": "adriatic_sea",
+    "mapxKey": "ADRIATIC SEA",
+    "altTermIds": ""
+  },
+  "adullam": {
+    "termId": "עֲדֻלָּם",
+    "mapxKey": "Adullam",
+    "altTermIds": ""
+  },
+  "aenon": {
+    "termId": "Αἰνών",
+    "mapxKey": "Aenon",
+    "altTermIds": ""
+  },
+  "africa": {
+    "termId": "africa",
+    "mapxKey": "",
+    "altTermIds": "title_africa"
+  },
+  "ai": {
+    "termId": "עַי-1",
+    "mapxKey": "Ai",
+    "altTermIds": ""
+  },
+  "aleppo": {
+    "termId": "Βέροια (DC)",
+    "mapxKey": "Aleppo",
+    "altTermIds": ""
+  },
+  "alexandria": {
+    "termId": "alexandria",
+    "mapxKey": "Alexandria",
+    "altTermIds": ""
+  },
+  "alt_red_sea_crossing": {
+    "termId": "alt_red_sea_crossing",
+    "mapxKey": "Alternate routes of Red Sea crossing",
+    "altTermIds": ""
+  },
+  "altar": {
+    "termId": "altar",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "altar_of_burned_offering": {
+    "termId": "altar_of_burned_offering",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "ammon": {
+    "termId": "עַמּוֹן",
+    "mapxKey": "AMMON",
+    "altTermIds": ""
+  },
+  "ammonites": {
+    "termId": "עַמּוֹנִי",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "amphipolis": {
+    "termId": "Ἀμφίπολις",
+    "mapxKey": "Amphipolis",
+    "altTermIds": ""
+  },
+  "antioch_pisidia": {
+    "termId": "Ἀντιόχεια-2",
+    "mapxKey": "Antioch of Pisidia",
+    "altTermIds": "Ἀντιόχεια-1"
+  },
+  "antioch_syria": {
+    "termId": "Ἀντιόχεια-1",
+    "mapxKey": "Antioch of Syria",
+    "altTermIds": "Ἀντιόχεια-2"
+  },
+  "antipatris": {
+    "termId": "Ἀντιπατρίς",
+    "mapxKey": "Antipatris",
+    "altTermIds": ""
+  },
+  "antonia_fortress": {
+    "termId": "antonia_fortress",
+    "mapxKey": "Antonia Fortress",
+    "altTermIds": ""
+  },
+  "aphek": {
+    "termId": "אֲפֵק-1",
+    "mapxKey": "Aphek",
+    "altTermIds": ""
+  },
+  "apollonia": {
+    "termId": "Ἀπολλωνία",
+    "mapxKey": "Apollonia",
+    "altTermIds": ""
+  },
+  "appearance": {
+    "termId": "appearance",
+    "mapxKey": "Appears after resurrection (Lk 24)",
+    "altTermIds": ""
+  },
+  "apr": {
+    "termId": "apr",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "aqueduct": {
+    "termId": "aqueduct",
+    "mapxKey": "Aqueduct",
+    "altTermIds": ""
+  },
+  "arabah": {
+    "termId": "עֲרָבָה-1",
+    "mapxKey": "ARABAH",
+    "altTermIds": ""
+  },
+  "arabia_nt": {
+    "termId": "Ἀραβία",
+    "mapxKey": "ARABIA",
+    "altTermIds": "עַרְבִי"
+  },
+  "arabia_ot": {
+    "termId": "עַרְבִי",
+    "mapxKey": "ARABIA",
+    "altTermIds": "Ἀραβία"
+  },
+  "arabian_desert": {
+    "termId": "arabian_desert",
+    "mapxKey": "ARABIAN DESERT",
+    "altTermIds": ""
+  },
+  "arabian_sea": {
+    "termId": "arabian_sea",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "arad": {
+    "termId": "עֲרָד-2",
+    "mapxKey": "Arad",
+    "altTermIds": ""
+  },
+  "arak_sea": {
+    "termId": "arak_sea",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "aram": {
+    "termId": "aram",
+    "mapxKey": "ARAM",
+    "altTermIds": "אֲרָם-1"
+  },
+  "arameans": {
+    "termId": "אֲרַמִּי",
+    "mapxKey": "ARAMEANS",
+    "altTermIds": ""
+  },
+  "ararat_mtns": {
+    "termId": "אֲרָרַט",
+    "mapxKey": "Mountains of Ararat",
+    "altTermIds": ""
+  },
+  "arimathea": {
+    "termId": "Ἁριμαθαία",
+    "mapxKey": "Arimathea",
+    "altTermIds": ""
+  },
+  "armenia": {
+    "termId": "armenia",
+    "mapxKey": "ARMENIA",
+    "altTermIds": ""
+  },
+  "aroer": {
+    "termId": "עֲרוֹעֵר",
+    "mapxKey": "Aroer",
+    "altTermIds": ""
+  },
+  "arphaxad": {
+    "termId": "Ἀρφαξάδ",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "arvad": {
+    "termId": "אַרְוָד",
+    "mapxKey": "Arvad",
+    "altTermIds": ""
+  },
+  "ascension": {
+    "termId": "ascension",
+    "mapxKey": "Discourse; ascension (Ac 1)",
+    "altTermIds": ""
+  },
+  "ashdod": {
+    "termId": "אַשְׁדּוֹד",
+    "mapxKey": "Ashdod",
+    "altTermIds": ""
+  },
+  "asher": {
+    "termId": "אָשֵׁר-1",
+    "mapxKey": "ASHER",
+    "altTermIds": ""
+  },
+  "ashkelon": {
+    "termId": "אַשְׁקְלוֹן",
+    "mapxKey": "Ashkelon",
+    "altTermIds": ""
+  },
+  "ashtaroth": {
+    "termId": "עַשְׁתָּרֹת",
+    "mapxKey": "Ashtaroth",
+    "altTermIds": ""
+  },
+  "asia": {
+    "termId": "Ἀσία",
+    "mapxKey": "ASIA",
+    "altTermIds": ""
+  },
+  "asshur": {
+    "termId": "אַשּׁוּר-1",
+    "mapxKey": "Asshur",
+    "altTermIds": ""
+  },
+  "assos": {
+    "termId": "Ἀσσος",
+    "mapxKey": "Assos",
+    "altTermIds": ""
+  },
+  "assyria": {
+    "termId": "אַשּׁוּר-2",
+    "mapxKey": "ASSYRIA",
+    "altTermIds": ""
+  },
+  "athens": {
+    "termId": "Ἀθῆναι",
+    "mapxKey": "Athens",
+    "altTermIds": ""
+  },
+  "atlantic_ocean": {
+    "termId": "atlantic_ocean",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "attalia": {
+    "termId": "Ἀττάλεια",
+    "mapxKey": "Attalia",
+    "altTermIds": ""
+  },
+  "aug": {
+    "termId": "aug",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "australia": {
+    "termId": "australia",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "avaris": {
+    "termId": "avaris",
+    "mapxKey": "Avaris",
+    "altTermIds": ""
+  },
+  "azekah": {
+    "termId": "עֲזֵקָה",
+    "mapxKey": "Azekah",
+    "altTermIds": ""
+  },
+  "azotus": {
+    "termId": "Ἄζωτος",
+    "mapxKey": "Azotus",
+    "altTermIds": ""
+  },
+  "baal_zephon": {
+    "termId": "בַּעַל צְפוֹן",
+    "mapxKey": "Baal Zephon",
+    "altTermIds": ""
+  },
+  "babylon": {
+    "termId": "בָּבֶל",
+    "mapxKey": "Babylon",
+    "altTermIds": "Βαβυλών"
+  },
+  "babylon_nt": {
+    "termId": "Βαβυλών",
+    "mapxKey": "Babylon",
+    "altTermIds": "בָּבֶל"
+  },
+  "babylonia": {
+    "termId": "babylonia",
+    "mapxKey": "BABYLONIA",
+    "altTermIds": "בָּבֶל, Βαβυλών"
+  },
+  "bashan": {
+    "termId": "בָּשָׁן",
+    "mapxKey": "BASHAN",
+    "altTermIds": ""
+  },
+  "beautiful_gate": {
+    "termId": "beautiful_gate",
+    "mapxKey": "Beautiful Gate",
+    "altTermIds": ""
+  },
+  "beersheba": {
+    "termId": "בְּאֵר שֶׁבַע",
+    "mapxKey": "Beersheba",
+    "altTermIds": ""
+  },
+  "belgica": {
+    "termId": "belgica",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "bells_hp": {
+    "termId": "bells_hp",
+    "mapxKey": "Bells",
+    "altTermIds": ""
+  },
+  "belt_truth": {
+    "termId": "belt_truth",
+    "mapxKey": "Belt of Truth",
+    "altTermIds": ""
+  },
+  "benjamin": {
+    "termId": "בִּנְיָמִין-1",
+    "mapxKey": "BENJAMIN",
+    "altTermIds": ""
+  },
+  "berea": {
+    "termId": "Βέροια",
+    "mapxKey": "Berea",
+    "altTermIds": ""
+  },
+  "beth_shean": {
+    "termId": "beth_shean",
+    "mapxKey": "Beth Shean",
+    "altTermIds": ""
+  },
+  "beth_shemesh": {
+    "termId": "בֵּית־שֶׁמֶשׁ-1",
+    "mapxKey": "Beth-Shemesh",
+    "altTermIds": ""
+  },
+  "bethany": {
+    "termId": "Βηθανία-2",
+    "mapxKey": "Bethany",
+    "altTermIds": "Βηθανία-1"
+  },
+  "bethany_east": {
+    "termId": "Βηθανία-1",
+    "mapxKey": "Bethany east of the Jordan",
+    "altTermIds": "Βηθανία-2"
+  },
+  "bethel": {
+    "termId": "בֵּית־אֵל-1",
+    "mapxKey": "Bethel",
+    "altTermIds": ""
+  },
+  "bethlehem_nt": {
+    "termId": "Βηθλέεμ",
+    "mapxKey": "Bethlehem",
+    "altTermIds": "בֵּית לֶחֶם"
+  },
+  "bethlehem_ot": {
+    "termId": "בֵּית לֶחֶם",
+    "mapxKey": "Bethlehem",
+    "altTermIds": "Βηθλέεμ"
+  },
+  "bethpeor": {
+    "termId": "בֵּית פְּעוֹר",
+    "mapxKey": "Beth-peor",
+    "altTermIds": ""
+  },
+  "bethphage": {
+    "termId": "Βηθφαγή",
+    "mapxKey": "Bethphage",
+    "altTermIds": ""
+  },
+  "bethsaida": {
+    "termId": "Βηθσαϊδά",
+    "mapxKey": "Bethsaida",
+    "altTermIds": ""
+  },
+  "bezer": {
+    "termId": "בֶּצֶר-1",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "birthplace": {
+    "termId": "birthplace",
+    "mapxKey": "Birthplace (Mt 2)",
+    "altTermIds": ""
+  },
+  "bithynia": {
+    "termId": "Βιθυνία",
+    "mapxKey": "BITHYNIA",
+    "altTermIds": ""
+  },
+  "black_sea": {
+    "termId": "black_sea",
+    "mapxKey": "BLACK SEA",
+    "altTermIds": ""
+  },
+  "blindman": {
+    "termId": "blindman",
+    "mapxKey": "Blind man healed (Mk 8)",
+    "altTermIds": ""
+  },
+  "boards": {
+    "termId": "קֶרֶשׁ",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "boundary": {
+    "termId": "boundary",
+    "mapxKey": "Boundary between Israel and Judah",
+    "altTermIds": ""
+  },
+  "boundary_persia": {
+    "termId": "boundary_persia",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "boundary_rome": {
+    "termId": "boundary_rome",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "bozrah": {
+    "termId": "בָּצְרָה-2",
+    "mapxKey": "Bozrah",
+    "altTermIds": ""
+  },
+  "breast_right": {
+    "termId": "breast_right",
+    "mapxKey": "Breastplate of Righteousness",
+    "altTermIds": ""
+  },
+  "breastplate_hp": {
+    "termId": "breastplate_hp",
+    "mapxKey": "Breastplate with 12 Jewels",
+    "altTermIds": ""
+  },
+  "bridge": {
+    "termId": "bridge",
+    "mapxKey": "bridge",
+    "altTermIds": ""
+  },
+  "britannia": {
+    "termId": "britannia",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "cadiz": {
+    "termId": "cadiz",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "caesarea": {
+    "termId": "Καισάρεια",
+    "mapxKey": "Caesarea",
+    "altTermIds": ""
+  },
+  "caesarea_philippi": {
+    "termId": "Καισαρείας τῆς Φιλίππου",
+    "mapxKey": "Caesarea Philippi",
+    "altTermIds": ""
+  },
+  "cana": {
+    "termId": "Κανά",
+    "mapxKey": "Cana",
+    "altTermIds": ""
+  },
+  "canaan": {
+    "termId": "כְּנַעַן-1",
+    "mapxKey": "CANAAN",
+    "altTermIds": ""
+  },
+  "capernaum": {
+    "termId": "Καφαρναούμ",
+    "mapxKey": "Capernaum",
+    "altTermIds": ""
+  },
+  "cappadocia": {
+    "termId": "Καππαδοκία",
+    "mapxKey": "CAPPADOCIA",
+    "altTermIds": ""
+  },
+  "carchemish": {
+    "termId": "כַּרְכְּמִישׁ",
+    "mapxKey": "Carchemish",
+    "altTermIds": ""
+  },
+  "carthage": {
+    "termId": "carthage",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "caspia": {
+    "termId": "caspia",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "caspian_sea": {
+    "termId": "caspian_sea",
+    "mapxKey": "CASPIAN SEA",
+    "altTermIds": ""
+  },
+  "cauda": {
+    "termId": "Καῦδα",
+    "mapxKey": "CAUDA",
+    "altTermIds": ""
+  },
+  "cenchrea": {
+    "termId": "Κεγχρεαί",
+    "mapxKey": "Cenchrea",
+    "altTermIds": ""
+  },
+  "chaldea": {
+    "termId": "כַּשְׂדִּי",
+    "mapxKey": "CHALDEA",
+    "altTermIds": ""
+  },
+  "chanukah": {
+    "termId": "chanukah",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "chios": {
+    "termId": "Χίος",
+    "mapxKey": "CHIOS",
+    "altTermIds": ""
+  },
+  "chorazin": {
+    "termId": "Χοραζίν",
+    "mapxKey": "Chorazin",
+    "altTermIds": ""
+  },
+  "cilicia": {
+    "termId": "Κιλικία",
+    "mapxKey": "CILICIA",
+    "altTermIds": ""
+  },
+  "cities_rebuked": {
+    "termId": "cities_rebuked",
+    "mapxKey": "Cities rebuked (Lk 10)",
+    "altTermIds": ""
+  },
+  "cnidus": {
+    "termId": "Κνίδος",
+    "mapxKey": "Cnidus",
+    "altTermIds": ""
+  },
+  "colossae": {
+    "termId": "Κολοσσαί",
+    "mapxKey": "Colossae",
+    "altTermIds": ""
+  },
+  "confession": {
+    "termId": "confession",
+    "mapxKey": "Peter’s Confession (Mt 16)",
+    "altTermIds": ""
+  },
+  "corinth": {
+    "termId": "Κόρινθος",
+    "mapxKey": "Corinth",
+    "altTermIds": ""
+  },
+  "corsica": {
+    "termId": "corsica",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "cos": {
+    "termId": "Κώς",
+    "mapxKey": "COS",
+    "altTermIds": ""
+  },
+  "council_chamber": {
+    "termId": "council_chamber",
+    "mapxKey": "Council Chamber",
+    "altTermIds": ""
+  },
+  "court": {
+    "termId": "חָצֵר",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "court_of_gentiles": {
+    "termId": "court_of_gentiles",
+    "mapxKey": "Court of the Gentiles",
+    "altTermIds": ""
+  },
+  "court_of_israel": {
+    "termId": "court_of_israel",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "court_of_priests": {
+    "termId": "court_of_priests",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "court_of_women": {
+    "termId": "court_of_women",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "crete": {
+    "termId": "Κρήτη",
+    "mapxKey": "CRETE",
+    "altTermIds": ""
+  },
+  "curtain": {
+    "termId": "curtain",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "curtain_wall": {
+    "termId": "curtain_wall",
+    "mapxKey": "Curtain Wall",
+    "altTermIds": ""
+  },
+  "cush": {
+    "termId": "כּוּשׁ-1",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "cyprus": {
+    "termId": "Κύπρος",
+    "mapxKey": "CYPRUS",
+    "altTermIds": ""
+  },
+  "cyrenaica": {
+    "termId": "cyrenaica",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "cyrene": {
+    "termId": "Κυρήνη",
+    "mapxKey": "Cyrene",
+    "altTermIds": ""
+  },
+  "dalmatia": {
+    "termId": "Δαλματία",
+    "mapxKey": "DALMATIA",
+    "altTermIds": ""
+  },
+  "damascus_gate": {
+    "termId": "damascus_gate",
+    "mapxKey": "Damascus Gate",
+    "altTermIds": ""
+  },
+  "damascus_nt": {
+    "termId": "Δαμασκός",
+    "mapxKey": "Damascus",
+    "altTermIds": "דּוּמֶשֶׂק"
+  },
+  "damascus_ot": {
+    "termId": "דּוּמֶשֶׂק",
+    "mapxKey": "Damascus",
+    "altTermIds": "Δαμασκός"
+  },
+  "dan": {
+    "termId": "דָּן-2",
+    "mapxKey": "DAN",
+    "altTermIds": ""
+  },
+  "dan_laish": {
+    "termId": "לַיִשׁ-2",
+    "mapxKey": "Dan (Laish)",
+    "altTermIds": ""
+  },
+  "danube_river": {
+    "termId": "danube_river",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "daughter_healed": {
+    "termId": "daughter_healed",
+    "mapxKey": "Syro-Phoenician woman’s daughter healed (Mk 7)",
+    "altTermIds": ""
+  },
+  "dead_sea": {
+    "termId": "יָם הַמֶּלַח",
+    "mapxKey": "Dead Sea",
+    "altTermIds": ""
+  },
+  "debir": {
+    "termId": "דְּבִיר-2",
+    "mapxKey": "Debir",
+    "altTermIds": ""
+  },
+  "dec": {
+    "termId": "dec",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "decapolis": {
+    "termId": "Δεκάπολις",
+    "mapxKey": "DECAPOLIS",
+    "altTermIds": ""
+  },
+  "demoniac": {
+    "termId": "demoniac",
+    "mapxKey": "Demoniac healed (Mk 5)",
+    "altTermIds": ""
+  },
+  "derbe": {
+    "termId": "Δέρβη",
+    "mapxKey": "Derbe",
+    "altTermIds": ""
+  },
+  "dibon": {
+    "termId": "דִּיבוֹן-1",
+    "mapxKey": "Dibon",
+    "altTermIds": ""
+  },
+  "dor": {
+    "termId": "דֹּאר",
+    "mapxKey": "Dor",
+    "altTermIds": ""
+  },
+  "dothan": {
+    "termId": "דֹּתָן",
+    "mapxKey": "Dothan",
+    "altTermIds": ""
+  },
+  "east": {
+    "termId": "east",
+    "mapxKey": "East",
+    "altTermIds": ""
+  },
+  "ecbatana": {
+    "termId": "אַחְמְתָא (AR)",
+    "mapxKey": "Ecbatana",
+    "altTermIds": ""
+  },
+  "edom": {
+    "termId": "אֱדוֹם",
+    "mapxKey": "EDOM",
+    "altTermIds": ""
+  },
+  "edomites": {
+    "termId": "אֲדוֹמִי",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "edrei": {
+    "termId": "אֶדְרֶעִי-1",
+    "mapxKey": "Edrei",
+    "altTermIds": ""
+  },
+  "eglon": {
+    "termId": "עֶגְלוֹן-1",
+    "mapxKey": "Eglon?",
+    "altTermIds": ""
+  },
+  "egypt_nt": {
+    "termId": "Αἴγυπτος",
+    "mapxKey": "EGYPT",
+    "altTermIds": "מִצְרַיִם, mizraim"
+  },
+  "egypt_ot": {
+    "termId": "מִצְרַיִם",
+    "mapxKey": "EGYPT",
+    "altTermIds": "Αἴγυπτος, mizraim"
+  },
+  "ekron": {
+    "termId": "עֶקְרוֹן",
+    "mapxKey": "Ekron",
+    "altTermIds": ""
+  },
+  "elam_nt": {
+    "termId": "Ἐλαμίτης",
+    "mapxKey": "ELAM",
+    "altTermIds": "עֵילָם-1"
+  },
+  "elam_ot": {
+    "termId": "עֵילָם-1",
+    "mapxKey": "ELAM",
+    "altTermIds": "elam_nt"
+  },
+  "elim": {
+    "termId": "אֵילִם",
+    "mapxKey": "Elim",
+    "altTermIds": ""
+  },
+  "elul": {
+    "termId": "elul",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "emmaus": {
+    "termId": "Ἐμμαοῦς",
+    "mapxKey": "Emmaus",
+    "altTermIds": ""
+  },
+  "endor": {
+    "termId": "endor",
+    "mapxKey": "Endor",
+    "altTermIds": ""
+  },
+  "engedi": {
+    "termId": "עֵין גֶּדִי",
+    "mapxKey": "En-Gedi",
+    "altTermIds": ""
+  },
+  "enrogel_spring": {
+    "termId": "enrogel_spring",
+    "mapxKey": "Enrogel Spring",
+    "altTermIds": ""
+  },
+  "entrance": {
+    "termId": "entrance",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "ephesus": {
+    "termId": "Ἔφεσος",
+    "mapxKey": "Ephesus",
+    "altTermIds": ""
+  },
+  "ephod_hp": {
+    "termId": "ephod_hp",
+    "mapxKey": "Ephod",
+    "altTermIds": ""
+  },
+  "ephraim_nt": {
+    "termId": "Ἐφραίμ",
+    "mapxKey": "EPHRAIM",
+    "altTermIds": "אֶפְרַיִם"
+  },
+  "ephraim_ot": {
+    "termId": "אֶפְרַיִם",
+    "mapxKey": "EPHRAIM",
+    "altTermIds": "Ἐφραίμ"
+  },
+  "ephrath": {
+    "termId": "אֶפְרָת-1",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "essene_gate": {
+    "termId": "essene_gate",
+    "mapxKey": "Essene Gate",
+    "altTermIds": ""
+  },
+  "etham": {
+    "termId": "אֵתָם",
+    "mapxKey": "Etham",
+    "altTermIds": ""
+  },
+  "ethiopia": {
+    "termId": "ethiopia",
+    "mapxKey": "Ethiopia",
+    "altTermIds": ""
+  },
+  "euphrates_river": {
+    "termId": "פְּרָת",
+    "mapxKey": "Euphrates River",
+    "altTermIds": ""
+  },
+  "europe": {
+    "termId": "europe",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "ezion_geber": {
+    "termId": "עֶצְיוֹן גֶּבֶר",
+    "mapxKey": "Ezion Geber",
+    "altTermIds": ""
+  },
+  "fair_havens": {
+    "termId": "Καλοὶ Λιμένες",
+    "mapxKey": "Fair Havens",
+    "altTermIds": ""
+  },
+  "feb": {
+    "termId": "feb",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "feet_hp": {
+    "termId": "feet_hp",
+    "mapxKey": "Bare Feet",
+    "altTermIds": ""
+  },
+  "field_of_blood": {
+    "termId": "Ἁκελδαμάχ",
+    "mapxKey": "Field of Blood",
+    "altTermIds": ""
+  },
+  "forum_jerusalem": {
+    "termId": "forum_jerusalem",
+    "mapxKey": "Forum",
+    "altTermIds": ""
+  },
+  "forum_of_appius": {
+    "termId": "Ἀππίου Φόρον",
+    "mapxKey": "Forum of Appius",
+    "altTermIds": ""
+  },
+  "gad": {
+    "termId": "גַּד-2",
+    "mapxKey": "GAD",
+    "altTermIds": ""
+  },
+  "gadara": {
+    "termId": "Γαδαρηνός",
+    "mapxKey": "Gadara",
+    "altTermIds": ""
+  },
+  "galatia": {
+    "termId": "Γαλατία",
+    "mapxKey": "GALATIA",
+    "altTermIds": ""
+  },
+  "galilee_nt": {
+    "termId": "Γαλιλαία-1",
+    "mapxKey": "GALILEE",
+    "altTermIds": "גָּלִיל, Γαλιλαία-2"
+  },
+  "galilee_ot": {
+    "termId": "גָּלִיל",
+    "mapxKey": "GALILEE",
+    "altTermIds": "Γαλιλαία-1"
+  },
+  "garden_gate": {
+    "termId": "garden_gate",
+    "mapxKey": "Garden Gate",
+    "altTermIds": ""
+  },
+  "gate": {
+    "termId": "שַׁעַר",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "gath": {
+    "termId": "גַּת-2",
+    "mapxKey": "Gath",
+    "altTermIds": ""
+  },
+  "gaul": {
+    "termId": "gaul",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "gaza_nt": {
+    "termId": "Γάζα",
+    "mapxKey": "Gaza",
+    "altTermIds": "עַזָּה"
+  },
+  "gaza_ot": {
+    "termId": "עַזָּה",
+    "mapxKey": "Gaza",
+    "altTermIds": "Γάζα"
+  },
+  "gebal_byblos": {
+    "termId": "גְּבַל",
+    "mapxKey": "Gebal (Byblos)",
+    "altTermIds": ""
+  },
+  "gennesaret": {
+    "termId": "Γεννησαρέτ-1",
+    "mapxKey": "Gennesaret",
+    "altTermIds": ""
+  },
+  "gerasa": {
+    "termId": "Γερασηνός",
+    "mapxKey": "Gerasa",
+    "altTermIds": ""
+  },
+  "gethsemane": {
+    "termId": "Γεθσημανί",
+    "mapxKey": "Gethsemane",
+    "altTermIds": ""
+  },
+  "gezer": {
+    "termId": "גֶּזֶר",
+    "mapxKey": "Gezer",
+    "altTermIds": ""
+  },
+  "gibeah": {
+    "termId": "גִּבְעָה-1",
+    "mapxKey": "Gibeah",
+    "altTermIds": ""
+  },
+  "gibeon": {
+    "termId": "גִּבְעוֹן",
+    "mapxKey": "Gibeon",
+    "altTermIds": ""
+  },
+  "gihon_spring": {
+    "termId": "גִּיחוֹן-2",
+    "mapxKey": "Gihon Spring",
+    "altTermIds": ""
+  },
+  "gilead": {
+    "termId": "גִּלְעָד-1",
+    "mapxKey": "GILEAD",
+    "altTermIds": ""
+  },
+  "gilgal": {
+    "termId": "גִּלְגָּל-1",
+    "mapxKey": "Gilgal",
+    "altTermIds": ""
+  },
+  "golan": {
+    "termId": "גּוֹלָן",
+    "mapxKey": "Golan",
+    "altTermIds": ""
+  },
+  "golgotha": {
+    "termId": "Γολγοθᾶ",
+    "mapxKey": "Golgotha",
+    "altTermIds": ""
+  },
+  "gomer": {
+    "termId": "גֹּמֶר-1",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "goshen": {
+    "termId": "גֹּשֶׁן-1",
+    "mapxKey": "GOSHEN",
+    "altTermIds": ""
+  },
+  "great_sea": {
+    "termId": "great_sea",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "greece": {
+    "termId": "Ἑλλάς",
+    "mapxKey": "GREECE",
+    "altTermIds": ""
+  },
+  "gulf_of_aqaba": {
+    "termId": "gulf_of_aqaba",
+    "mapxKey": "Gulf of Aqaba",
+    "altTermIds": ""
+  },
+  "ham": {
+    "termId": "הָם",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "hamath": {
+    "termId": "חֲמָת",
+    "mapxKey": "HAMATH",
+    "altTermIds": ""
+  },
+  "haran": {
+    "termId": "חָרָן-1",
+    "mapxKey": "Haran",
+    "altTermIds": ""
+  },
+  "hazor": {
+    "termId": "חָצוֹר-1",
+    "mapxKey": "Hazor",
+    "altTermIds": ""
+  },
+  "headband_hp": {
+    "termId": "headband_hp",
+    "mapxKey": "Gold Headband",
+    "altTermIds": ""
+  },
+  "headquarters": {
+    "termId": "headquarters",
+    "mapxKey": "Headquarters, site of many miracles (Mk 2)",
+    "altTermIds": ""
+  },
+  "hebron": {
+    "termId": "חֶבְרוֹן-1",
+    "mapxKey": "Hebron",
+    "altTermIds": ""
+  },
+  "heliopolis": {
+    "termId": "heliopolis",
+    "mapxKey": "Heliopolis",
+    "altTermIds": ""
+  },
+  "helmet_salvation": {
+    "termId": "helmet_salvation",
+    "mapxKey": "Helmet of Salvation",
+    "altTermIds": ""
+  },
+  "herod_antipas_palace": {
+    "termId": "herod_antipas_palace",
+    "mapxKey": "Herod Antipas’ Palace",
+    "altTermIds": ""
+  },
+  "herodian_street": {
+    "termId": "herodian_street",
+    "mapxKey": "Herodian Street",
+    "altTermIds": ""
+  },
+  "herods_palace": {
+    "termId": "herods_palace",
+    "mapxKey": "Herod’s Palace",
+    "altTermIds": ""
+  },
+  "heshbon": {
+    "termId": "חֶשְׁבּוֹן",
+    "mapxKey": "Heshbon",
+    "altTermIds": ""
+  },
+  "hezekiahs_tunnel": {
+    "termId": "hezekiahs_tunnel",
+    "mapxKey": "Hezekiah’s Tunnel",
+    "altTermIds": ""
+  },
+  "hierapolis": {
+    "termId": "Ἱεράπολις",
+    "mapxKey": "Hierapolis",
+    "altTermIds": ""
+  },
+  "hinnom_valley": {
+    "termId": "גֵּיא־הִנֹּם",
+    "mapxKey": "Hinnom Valley",
+    "altTermIds": ""
+  },
+  "hittites": {
+    "termId": "חִתִּי",
+    "mapxKey": "HITTITES",
+    "altTermIds": ""
+  },
+  "hivites": {
+    "termId": "חִוִּי",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "holy_holy": {
+    "termId": "holy_holy",
+    "mapxKey": "The Holy of Holies",
+    "altTermIds": ""
+  },
+  "holy_land_map": {
+    "termId": "holy_land_map",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "holy_place": {
+    "termId": "holy_place",
+    "mapxKey": "The Holy Place",
+    "altTermIds": ""
+  },
+  "home": {
+    "termId": "home",
+    "mapxKey": "Boyhood home (Lk 2)",
+    "altTermIds": ""
+  },
+  "hormah": {
+    "termId": "חָרְמָה",
+    "mapxKey": "Hormah",
+    "altTermIds": ""
+  },
+  "house_of_caiaphas": {
+    "termId": "house_of_caiaphas",
+    "mapxKey": "House of Caiaphas",
+    "altTermIds": ""
+  },
+  "hurrians": {
+    "termId": "hurrians",
+    "mapxKey": "HURRIANS",
+    "altTermIds": ""
+  },
+  "iconium": {
+    "termId": "Ἰκόνιον",
+    "mapxKey": "Iconium",
+    "altTermIds": ""
+  },
+  "idumea": {
+    "termId": "Ἰδουμαία",
+    "mapxKey": "IDUMEA",
+    "altTermIds": ""
+  },
+  "illyricum": {
+    "termId": "Ἰλλυρικόν",
+    "mapxKey": "ILLYRICUM",
+    "altTermIds": ""
+  },
+  "incense_hp": {
+    "termId": "incense_hp",
+    "mapxKey": "Incense Burner",
+    "altTermIds": ""
+  },
+  "india": {
+    "termId": "הֹדּוּ",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "indian_ocean": {
+    "termId": "indian_ocean",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "indus_river": {
+    "termId": "indus_river",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "inner_court": {
+    "termId": "inner_court",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "inner_north_gate": {
+    "termId": "inner_north_gate",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "israel": {
+    "termId": "יִשְׂרָאֵל",
+    "mapxKey": "ISRAEL",
+    "altTermIds": ""
+  },
+  "israel_pool": {
+    "termId": "israel_pool",
+    "mapxKey": "Israel Pool",
+    "altTermIds": ""
+  },
+  "issachar": {
+    "termId": "יִשָּׂשׂכָר-1",
+    "mapxKey": "ISSACHAR",
+    "altTermIds": ""
+  },
+  "italy": {
+    "termId": "Ἰταλία",
+    "mapxKey": "ITALY",
+    "altTermIds": ""
+  },
+  "ituraea": {
+    "termId": "Ἰτουραῖος",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "iyar": {
+    "termId": "iyar",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "jabesh": {
+    "termId": "יָבֵשׁ-1",
+    "mapxKey": "Jabesh Gilead",
+    "altTermIds": ""
+  },
+  "jabneel": {
+    "termId": "יַבְנְאֵל-1",
+    "mapxKey": "Jabneel",
+    "altTermIds": ""
+  },
+  "jabneh": {
+    "termId": "יַבְנֵה",
+    "mapxKey": "Jabneh",
+    "altTermIds": ""
+  },
+  "jacobs_well": {
+    "termId": "jacobs_well",
+    "mapxKey": "Jacob’s Well",
+    "altTermIds": ""
+  },
+  "jamnia": {
+    "termId": "jamnia",
+    "mapxKey": "Jamnia",
+    "altTermIds": ""
+  },
+  "jan": {
+    "termId": "jan",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "japheth": {
+    "termId": "יֶפֶת",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "jarmuth": {
+    "termId": "יַרְמוּת-1",
+    "mapxKey": "Jarmuth",
+    "altTermIds": ""
+  },
+  "javan": {
+    "termId": "יָוָן",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "jaxartes_river": {
+    "termId": "jaxartes_river",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "jericho_nt": {
+    "termId": "Ἰεριχώ",
+    "mapxKey": "Jericho",
+    "altTermIds": "יְרִחוֹ"
+  },
+  "jericho_ot": {
+    "termId": "יְרִחוֹ",
+    "mapxKey": "Jericho",
+    "altTermIds": "Ἰεριχώ"
+  },
+  "jerusalem_nt": {
+    "termId": "Ἱεροσόλυμα-1",
+    "mapxKey": "Jerusalem",
+    "altTermIds": "יְרוּשָׁלִַם"
+  },
+  "jerusalem_ot": {
+    "termId": "יְרוּשָׁלִַם",
+    "mapxKey": "Jerusalem",
+    "altTermIds": "Ἱεροσόλυμα-1"
+  },
+  "jerusalem_title": {
+    "termId": "jerusalem_title",
+    "mapxKey": "Jerusalem in New Testament Times",
+    "altTermIds": "title_jerusalem_ill"
+  },
+  "jezreel": {
+    "termId": "יִזְרְעֶאל-2",
+    "mapxKey": "Jezreel",
+    "altTermIds": ""
+  },
+  "jokneam": {
+    "termId": "יָקְנְעָם",
+    "mapxKey": "Jokneam",
+    "altTermIds": ""
+  },
+  "joppa_nt": {
+    "termId": "Ἰόππη",
+    "mapxKey": "Joppa",
+    "altTermIds": "יָפוֹ"
+  },
+  "joppa_ot": {
+    "termId": "יָפוֹ",
+    "mapxKey": "Joppa",
+    "altTermIds": "Ἰόππη"
+  },
+  "jordan_river_nt": {
+    "termId": "Ἰορδάνης",
+    "mapxKey": "Jordan River",
+    "altTermIds": "יַרְדֵּן"
+  },
+  "jordan_river_ot": {
+    "termId": "יַרְדֵּן",
+    "mapxKey": "Jordan River",
+    "altTermIds": "Ἰορδάνης"
+  },
+  "judah": {
+    "termId": "יְהוּדָה-1",
+    "mapxKey": "JUDAH",
+    "altTermIds": ""
+  },
+  "judea": {
+    "termId": "Ἰουδαία",
+    "mapxKey": "JUDEA",
+    "altTermIds": ""
+  },
+  "jul": {
+    "termId": "jul",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "jun": {
+    "termId": "jun",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "kadesh": {
+    "termId": "קָדֵשׁ-3",
+    "mapxKey": "Kadesh",
+    "altTermIds": ""
+  },
+  "kadesh_barnea": {
+    "termId": "קָדֵשׁ בַּרְנֵעַ",
+    "mapxKey": "Kadesh Barnea",
+    "altTermIds": ""
+  },
+  "kedar": {
+    "termId": "קֵדָר",
+    "mapxKey": "KEDAR",
+    "altTermIds": ""
+  },
+  "kedesh": {
+    "termId": "קֶדֶשׁ-1",
+    "mapxKey": "Kedesh",
+    "altTermIds": ""
+  },
+  "kidron_valley": {
+    "termId": "Κεδρών",
+    "mapxKey": "Kidron Valley",
+    "altTermIds": ""
+  },
+  "kir_hareseth": {
+    "termId": "קִיר־חֶרֶשׂ",
+    "mapxKey": "Kir Hareseth",
+    "altTermIds": ""
+  },
+  "kiriath_jearim": {
+    "termId": "קִרְיַת יְעָרִים",
+    "mapxKey": "Kiriath-Jearim",
+    "altTermIds": ""
+  },
+  "kislew": {
+    "termId": "kislew",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "kittim_cyprus": {
+    "termId": "כִּתִּיִּים",
+    "mapxKey": "KITTIM (CYPRUS)",
+    "altTermIds": ""
+  },
+  "lachish": {
+    "termId": "לָכִישׁ",
+    "mapxKey": "Lachish",
+    "altTermIds": ""
+  },
+  "laodicea": {
+    "termId": "Λαοδίκεια",
+    "mapxKey": "Laodicea",
+    "altTermIds": ""
+  },
+  "lasea": {
+    "termId": "Λασαία",
+    "mapxKey": "Lasea",
+    "altTermIds": ""
+  },
+  "laver": {
+    "termId": "laver",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "lazarus": {
+    "termId": "lazarus",
+    "mapxKey": "Home of Mary, Martha and Lazarus (Jn 11)",
+    "altTermIds": ""
+  },
+  "legend_1": {
+    "termId": "legend_1",
+    "mapxKey": "1. Paul’s First Journey (Acts 13:4–14:28)",
+    "altTermIds": ""
+  },
+  "legend_2": {
+    "termId": "legend_2",
+    "mapxKey": "2. Paul’s Second Journey (Acts 15:36–18:22)",
+    "altTermIds": ""
+  },
+  "legend_3": {
+    "termId": "legend_3",
+    "mapxKey": "3. Paul’s Third Journey (Acts 18:23–21:17)",
+    "altTermIds": ""
+  },
+  "legend_4": {
+    "termId": "legend_4",
+    "mapxKey": "4. Paul’s Journey to Rome (Acts 27:1–28:16)",
+    "altTermIds": ""
+  },
+  "lepers": {
+    "termId": "lepers",
+    "mapxKey": "Lepers healed (Lk 17)",
+    "altTermIds": ""
+  },
+  "leptis_magna": {
+    "termId": "leptis_magna",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "libnah": {
+    "termId": "לִבְנָה-2",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "libya_nt": {
+    "termId": "Λιβύη",
+    "mapxKey": "LIBYA",
+    "altTermIds": ""
+  },
+  "londinium": {
+    "termId": "londinium",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "lud": {
+    "termId": "לוּד",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "lycaonia": {
+    "termId": "Λυκαονία",
+    "mapxKey": "LYCAONIA",
+    "altTermIds": ""
+  },
+  "lycia": {
+    "termId": "Λυκία",
+    "mapxKey": "LYCIA",
+    "altTermIds": ""
+  },
+  "lydda": {
+    "termId": "Λύδδα",
+    "mapxKey": "Lydda",
+    "altTermIds": ""
+  },
+  "lydia": {
+    "termId": "Λυδία (DC)",
+    "mapxKey": "LYDIA",
+    "altTermIds": ""
+  },
+  "lystra": {
+    "termId": "Λύστρα",
+    "mapxKey": "Lystra",
+    "altTermIds": ""
+  },
+  "maccabean_palace": {
+    "termId": "maccabean_palace",
+    "mapxKey": "Maccabean Palace",
+    "altTermIds": ""
+  },
+  "macedonia": {
+    "termId": "Μακεδονία",
+    "mapxKey": "MACEDONIA",
+    "altTermIds": ""
+  },
+  "madai": {
+    "termId": "madai",
+    "mapxKey": "",
+    "altTermIds": "מָדַי"
+  },
+  "magadan": {
+    "termId": "Μαγαδάν",
+    "mapxKey": "Magadan",
+    "altTermIds": ""
+  },
+  "mahanaim": {
+    "termId": "מַחֲנַיִם",
+    "mapxKey": "Mahanaim",
+    "altTermIds": ""
+  },
+  "main_gate": {
+    "termId": "main_gate",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "makkedah": {
+    "termId": "מַקֵּדָה",
+    "mapxKey": "Makkedah",
+    "altTermIds": ""
+  },
+  "malta": {
+    "termId": "Μελίτη",
+    "mapxKey": "MALTA",
+    "altTermIds": ""
+  },
+  "mamre": {
+    "termId": "מַמְרֵא-2",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "manasseh_east": {
+    "termId": "מְנַשֶּׁה-1",
+    "mapxKey": "Manasseh (East)",
+    "altTermIds": ""
+  },
+  "manasseh_west": {
+    "termId": "manasseh_west",
+    "mapxKey": "Manasseh (West)",
+    "altTermIds": ""
+  },
+  "mar": {
+    "termId": "mar",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "marah": {
+    "termId": "מָרָה",
+    "mapxKey": "Marah",
+    "altTermIds": ""
+  },
+  "mareshah": {
+    "termId": "מָרֵשָׁה-1",
+    "mapxKey": "Mareshah",
+    "altTermIds": ""
+  },
+  "mari": {
+    "termId": "mari",
+    "mapxKey": "Mari",
+    "altTermIds": ""
+  },
+  "markhesywan": {
+    "termId": "markhesywan",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "mauretania": {
+    "termId": "mauretania",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "may": {
+    "termId": "may",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "medeba": {
+    "termId": "מֵידְבָא",
+    "mapxKey": "Medeba",
+    "altTermIds": ""
+  },
+  "media_nt": {
+    "termId": "Μῆδος",
+    "mapxKey": "MEDIA",
+    "altTermIds": "מָדַי"
+  },
+  "media_ot": {
+    "termId": "מָדַי",
+    "mapxKey": "MEDIA",
+    "altTermIds": "madai, Μῆδος"
+  },
+  "mediterranean_sea": {
+    "termId": "mediterranean_sea",
+    "mapxKey": "MEDITERRANEAN SEA",
+    "altTermIds": ""
+  },
+  "megiddo": {
+    "termId": "מְגִדּוֹ",
+    "mapxKey": "Megiddo",
+    "altTermIds": ""
+  },
+  "memphis": {
+    "termId": "מֹף",
+    "mapxKey": "Memphis",
+    "altTermIds": ""
+  },
+  "meshech": {
+    "termId": "מֶשֶׁךְ",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "mesopotamia_nt": {
+    "termId": "Μεσοποταμία",
+    "mapxKey": "MESOPOTAMIA",
+    "altTermIds": "אֲרַם נַהֲרַיִם"
+  },
+  "mesopotamia_ot": {
+    "termId": "אֲרַם נַהֲרַיִם",
+    "mapxKey": "",
+    "altTermIds": "Μεσοποταμία"
+  },
+  "midian": {
+    "termId": "מִדְיָן",
+    "mapxKey": "MIDIAN",
+    "altTermIds": ""
+  },
+  "miletus": {
+    "termId": "Μίλητος",
+    "mapxKey": "Miletus",
+    "altTermIds": ""
+  },
+  "mitylene": {
+    "termId": "Μιτυλήνη",
+    "mapxKey": "Mitylene",
+    "altTermIds": ""
+  },
+  "mizpa": {
+    "termId": "מִצְפָּה-2",
+    "mapxKey": "Mizpa/Mizpeh",
+    "altTermIds": "mizpah_of_moab"
+  },
+  "mizpah_of_moab": {
+    "termId": "mizpah_of_moab",
+    "mapxKey": "Mizpah of Moab",
+    "altTermIds": "מִצְפָּה-2"
+  },
+  "mizraim": {
+    "termId": "mizraim",
+    "mapxKey": "",
+    "altTermIds": "Αἴγυπτος, מִצְרַיִם"
+  },
+  "moab": {
+    "termId": "מוֹאָב",
+    "mapxKey": "MOAB",
+    "altTermIds": ""
+  },
+  "moabites": {
+    "termId": "מוֹאָבִי",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "mount_of_olives": {
+    "termId": "mount_of_olives",
+    "mapxKey": "Mount of Olives",
+    "altTermIds": ""
+  },
+  "mt_carmel": {
+    "termId": "כַּרְמֶל-2",
+    "mapxKey": "Mt. Carmel",
+    "altTermIds": ""
+  },
+  "mt_ebal": {
+    "termId": "עֵיבָל-3",
+    "mapxKey": "Mt. Ebal",
+    "altTermIds": ""
+  },
+  "mt_gerizim": {
+    "termId": "גְּרִזִּים",
+    "mapxKey": "MT. Gerizim",
+    "altTermIds": ""
+  },
+  "mt_gilboa": {
+    "termId": "גִּלְבֹּעַ",
+    "mapxKey": "Mt. Gilboa",
+    "altTermIds": ""
+  },
+  "mt_hermon": {
+    "termId": "חֶרְמוֹן",
+    "mapxKey": "MT. Hermon",
+    "altTermIds": ""
+  },
+  "mt_lebanon": {
+    "termId": "לְבָנוֹן",
+    "mapxKey": "Lebanon Mountains",
+    "altTermIds": ""
+  },
+  "mt_nebo": {
+    "termId": "נְבוֹ-2",
+    "mapxKey": "Mt. Nebo",
+    "altTermIds": ""
+  },
+  "mt_seir": {
+    "termId": "שֵׂעִיר-2",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "mt_sinai_horeb": {
+    "termId": "mt_sinai_horeb",
+    "mapxKey": "Mt. Sinai Horeb",
+    "altTermIds": ""
+  },
+  "mt_tabor": {
+    "termId": "תָּבוֹר-2",
+    "mapxKey": "Mt. Tabor",
+    "altTermIds": ""
+  },
+  "myra": {
+    "termId": "Μύρα",
+    "mapxKey": "Myra",
+    "altTermIds": ""
+  },
+  "mysia": {
+    "termId": "Μυσία",
+    "mapxKey": "MYSIA",
+    "altTermIds": ""
+  },
+  "nain": {
+    "termId": "Ναΐν",
+    "mapxKey": "Nain",
+    "altTermIds": ""
+  },
+  "naphtali": {
+    "termId": "נַפְתָּלִי",
+    "mapxKey": "Naphtali",
+    "altTermIds": ""
+  },
+  "nazareth": {
+    "termId": "Ναζαρά",
+    "mapxKey": "Nazareth",
+    "altTermIds": ""
+  },
+  "neapolis": {
+    "termId": "Νέα Πόλις",
+    "mapxKey": "Neapolis",
+    "altTermIds": ""
+  },
+  "nicopolis": {
+    "termId": "Νικόπολις",
+    "mapxKey": "Nicopolis",
+    "altTermIds": ""
+  },
+  "nile_river": {
+    "termId": "יְאֹר-1",
+    "mapxKey": "Nile River",
+    "altTermIds": ""
+  },
+  "nineveh": {
+    "termId": "נִינְוֵה",
+    "mapxKey": "Nineveh",
+    "altTermIds": ""
+  },
+  "nippur": {
+    "termId": "nippur",
+    "mapxKey": "Nippur",
+    "altTermIds": ""
+  },
+  "nisan": {
+    "termId": "nisan",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "north": {
+    "termId": "north",
+    "mapxKey": "North",
+    "altTermIds": ""
+  },
+  "north_america": {
+    "termId": "north_america",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "north_sea": {
+    "termId": "north_sea",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "nov": {
+    "termId": "nov",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "numidia": {
+    "termId": "numidia",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "nuzi": {
+    "termId": "nuzi",
+    "mapxKey": "Nuzi",
+    "altTermIds": ""
+  },
+  "oct": {
+    "termId": "oct",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "onyx_hp": {
+    "termId": "onyx_hp",
+    "mapxKey": "Onyx Stones on Shoulders",
+    "altTermIds": ""
+  },
+  "orontes_river": {
+    "termId": "orontes_river",
+    "mapxKey": "Orontes River",
+    "altTermIds": ""
+  },
+  "outer_court_rooms": {
+    "termId": "outer_court_rooms",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "outer_east_gate": {
+    "termId": "outer_east_gate",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "outer_north_gate": {
+    "termId": "outer_north_gate",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "outer_south_gate": {
+    "termId": "outer_south_gate",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "oxus_river": {
+    "termId": "oxus_river",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "pacific_ocean": {
+    "termId": "pacific_ocean",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "paddan_aram": {
+    "termId": "פַּדַּן אֲרָם",
+    "mapxKey": "Paddan Aram",
+    "altTermIds": ""
+  },
+  "palestine": {
+    "termId": "palestine",
+    "mapxKey": "PALESTINE",
+    "altTermIds": ""
+  },
+  "pamphylia": {
+    "termId": "Παμφυλία",
+    "mapxKey": "PAMPHYLIA",
+    "altTermIds": ""
+  },
+  "paphos": {
+    "termId": "Πάφος",
+    "mapxKey": "Paphos",
+    "altTermIds": ""
+  },
+  "paris": {
+    "termId": "paris",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "parthia": {
+    "termId": "parthia",
+    "mapxKey": "PARTHIA",
+    "altTermIds": ""
+  },
+  "passion_wk": {
+    "termId": "passion_wk",
+    "mapxKey": "Several visits; passion week (Jn 12)",
+    "altTermIds": ""
+  },
+  "passover_ot": {
+    "termId": "פֶּסַח",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "patara": {
+    "termId": "Πάταρα",
+    "mapxKey": "Patara",
+    "altTermIds": ""
+  },
+  "patmos": {
+    "termId": "Πάτμος",
+    "mapxKey": "Patmos",
+    "altTermIds": ""
+  },
+  "pauls_journey_map": {
+    "termId": "pauls_journey_map",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "peniel": {
+    "termId": "פְּנִיאֵל",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "peraea": {
+    "termId": "peraea",
+    "mapxKey": "PERAEA",
+    "altTermIds": ""
+  },
+  "perga": {
+    "termId": "Πέργη",
+    "mapxKey": "Perga",
+    "altTermIds": ""
+  },
+  "pergamum": {
+    "termId": "Πέργαμος",
+    "mapxKey": "Pergamum",
+    "altTermIds": ""
+  },
+  "persia": {
+    "termId": "Περσίς",
+    "mapxKey": "PERSIA",
+    "altTermIds": ""
+  },
+  "persia_title01": {
+    "termId": "persia_title01",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "persian_gulf": {
+    "termId": "persian_gulf",
+    "mapxKey": "PERSIAN GULF",
+    "altTermIds": ""
+  },
+  "philadelphia": {
+    "termId": "Φιλαδέλφεια",
+    "mapxKey": "Philadelphia",
+    "altTermIds": ""
+  },
+  "philippi": {
+    "termId": "Φίλιπποι",
+    "mapxKey": "Philippi",
+    "altTermIds": ""
+  },
+  "philipstravels_title": {
+    "termId": "philipstravels_title",
+    "mapxKey": "Philip’s Travels",
+    "altTermIds": ""
+  },
+  "philistia": {
+    "termId": "פְּלֶשֶׁת",
+    "mapxKey": "PHILISTIA",
+    "altTermIds": ""
+  },
+  "philistines": {
+    "termId": "פְּלִשְׁתִּי",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "phoenicia": {
+    "termId": "Φοινίκη",
+    "mapxKey": "PHOENICIA",
+    "altTermIds": ""
+  },
+  "phoenix": {
+    "termId": "Φοῖνιξ",
+    "mapxKey": "Phoenix",
+    "altTermIds": ""
+  },
+  "phrygia": {
+    "termId": "Φρυγία",
+    "mapxKey": "PHRYGIA",
+    "altTermIds": ""
+  },
+  "pinnacle_of_temple": {
+    "termId": "pinnacle_of_temple",
+    "mapxKey": "Pinnacle of Temple",
+    "altTermIds": ""
+  },
+  "pisidia": {
+    "termId": "Πισιδία",
+    "mapxKey": "PISIDIA",
+    "altTermIds": ""
+  },
+  "pithom": {
+    "termId": "פִּתֹם",
+    "mapxKey": "Pithom",
+    "altTermIds": ""
+  },
+  "poles": {
+    "termId": "poles",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "pontus": {
+    "termId": "Πόντος",
+    "mapxKey": "PONTUS",
+    "altTermIds": ""
+  },
+  "pool_of_bethzatha": {
+    "termId": "Βηθζαθά",
+    "mapxKey": "Pool of Bethesda",
+    "altTermIds": ""
+  },
+  "pool_of_siloam": {
+    "termId": "Σιλωάμ",
+    "mapxKey": "Pool of Siloam",
+    "altTermIds": ""
+  },
+  "possible_rte_exodus": {
+    "termId": "possible_rte_exodus",
+    "mapxKey": "Possible route of the Exodus",
+    "altTermIds": ""
+  },
+  "praetorium": {
+    "termId": "πραιτώριον",
+    "mapxKey": "Praetorium",
+    "altTermIds": ""
+  },
+  "priests_houses": {
+    "termId": "priests_houses",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "ptolemais": {
+    "termId": "Πτολεμαΐς",
+    "mapxKey": "Ptolemais",
+    "altTermIds": ""
+  },
+  "punon": {
+    "termId": "פּוּנֹן",
+    "mapxKey": "Punon",
+    "altTermIds": ""
+  },
+  "purim": {
+    "termId": "purim",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "put": {
+    "termId": "פּוּט",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "puteoli": {
+    "termId": "Ποτίολοι",
+    "mapxKey": "Puteoli",
+    "altTermIds": ""
+  },
+  "quantir": {
+    "termId": "quantir",
+    "mapxKey": "Quantir",
+    "altTermIds": ""
+  },
+  "rabbah": {
+    "termId": "רַבָּה-1",
+    "mapxKey": "Rabbah",
+    "altTermIds": ""
+  },
+  "ramah": {
+    "termId": "רָמָה-2",
+    "mapxKey": "Ramah",
+    "altTermIds": ""
+  },
+  "rameses": {
+    "termId": "רַעְמְסֵס",
+    "mapxKey": "Rameses",
+    "altTermIds": ""
+  },
+  "ramoth": {
+    "termId": "רָאמוֹת-1",
+    "mapxKey": "Ramoth",
+    "altTermIds": ""
+  },
+  "ramoth_gilead": {
+    "termId": "רָאמוֹת גִּלְעָד",
+    "mapxKey": "Ramoth Gilead",
+    "altTermIds": ""
+  },
+  "red_sea": {
+    "termId": "יַם־סוּף",
+    "mapxKey": "RED SEA",
+    "altTermIds": ""
+  },
+  "refugecities_title01": {
+    "termId": "refugecities_title01",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "refugecities_title02": {
+    "termId": "refugecities_title02",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "reuben": {
+    "termId": "רְאוּבֵן",
+    "mapxKey": "Reuben",
+    "altTermIds": ""
+  },
+  "rhegium": {
+    "termId": "Ῥήγιον",
+    "mapxKey": "Rhegium",
+    "altTermIds": ""
+  },
+  "rhodes": {
+    "termId": "Ῥόδος",
+    "mapxKey": "RHODES",
+    "altTermIds": ""
+  },
+  "riblah": {
+    "termId": "דִּבְלָה",
+    "mapxKey": "Riblah",
+    "altTermIds": ""
+  },
+  "river_arnon": {
+    "termId": "אַרְנוֹן",
+    "mapxKey": "Arnon River",
+    "altTermIds": ""
+  },
+  "river_jabbok": {
+    "termId": "יַבֹּק",
+    "mapxKey": "Jabbok River",
+    "altTermIds": ""
+  },
+  "river_of_life": {
+    "termId": "river_of_life",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "river_yarmuk": {
+    "termId": "river_yarmuk",
+    "mapxKey": "Yarmuk River",
+    "altTermIds": ""
+  },
+  "river_zered": {
+    "termId": "זֶרֶד",
+    "mapxKey": "Zered River",
+    "altTermIds": ""
+  },
+  "road_to_bethany": {
+    "termId": "road_to_bethany",
+    "mapxKey": "Road to Bethany",
+    "altTermIds": ""
+  },
+  "road_to_bethlehem": {
+    "termId": "road_to_bethlehem",
+    "mapxKey": "Road to Bethlehem",
+    "altTermIds": ""
+  },
+  "road_to_caesarea": {
+    "termId": "road_to_caesarea",
+    "mapxKey": "Road to Caesarea",
+    "altTermIds": ""
+  },
+  "road_to_jericho": {
+    "termId": "road_to_jericho",
+    "mapxKey": "Road to Jericho",
+    "altTermIds": ""
+  },
+  "road_to_joppa": {
+    "termId": "road_to_joppa",
+    "mapxKey": "Road to Joppa",
+    "altTermIds": ""
+  },
+  "road_to_the_dead_sea": {
+    "termId": "road_to_the_dead_sea",
+    "mapxKey": "Road to the Dead Sea",
+    "altTermIds": ""
+  },
+  "robe_hp": {
+    "termId": "robe_hp",
+    "mapxKey": "Robe",
+    "altTermIds": ""
+  },
+  "rome": {
+    "termId": "Ῥώμη",
+    "mapxKey": "Rome",
+    "altTermIds": ""
+  },
+  "route_ruth": {
+    "termId": "route_ruth",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "royal_porch": {
+    "termId": "royal_porch",
+    "mapxKey": "Royal Porch",
+    "altTermIds": ""
+  },
+  "rt_frm_egypt_to_arabia": {
+    "termId": "rt_frm_egypt_to_arabia",
+    "mapxKey": "Route from Egypt to Arabia",
+    "altTermIds": ""
+  },
+  "salamis": {
+    "termId": "Σαλαμίς",
+    "mapxKey": "Salamis",
+    "altTermIds": ""
+  },
+  "salim": {
+    "termId": "Σαλείμ",
+    "mapxKey": "Salim",
+    "altTermIds": ""
+  },
+  "salmone": {
+    "termId": "Σαλμώνη",
+    "mapxKey": "Salmone",
+    "altTermIds": ""
+  },
+  "samaria_city_nt": {
+    "termId": "Σαμάρεια-2",
+    "mapxKey": "Samaria",
+    "altTermIds": "Σαμάρεια-1, שֹׁמְרוֹן"
+  },
+  "samaria_city_ot": {
+    "termId": "שֹׁמְרוֹן",
+    "mapxKey": "Samaria",
+    "altTermIds": "Σαμάρεια-2, Σαμάρεια-1"
+  },
+  "samaria_region": {
+    "termId": "Σαμάρεια-1",
+    "mapxKey": "SAMARIA",
+    "altTermIds": "Σαμάρεια-2, שֹׁמְרוֹן"
+  },
+  "samos": {
+    "termId": "Σάμος",
+    "mapxKey": "SAMOS",
+    "altTermIds": ""
+  },
+  "samothrace": {
+    "termId": "Σαμοθρᾴκη",
+    "mapxKey": "SAMOTHRACE",
+    "altTermIds": ""
+  },
+  "sardinia": {
+    "termId": "sardinia",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "sardis": {
+    "termId": "Σάρδεις",
+    "mapxKey": "Sardis",
+    "altTermIds": ""
+  },
+  "sash_hp": {
+    "termId": "sash_hp",
+    "mapxKey": "Sash",
+    "altTermIds": ""
+  },
+  "scale_k": {
+    "termId": "scale_k",
+    "mapxKey": "Kilometers",
+    "altTermIds": ""
+  },
+  "scale_m": {
+    "termId": "scale_m",
+    "mapxKey": "Miles",
+    "altTermIds": ""
+  },
+  "scripture_hp": {
+    "termId": "scripture_hp",
+    "mapxKey": "Exodus 28",
+    "altTermIds": ""
+  },
+  "scripture_j1": {
+    "termId": "scripture_j1",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "scripture_j2": {
+    "termId": "scripture_j2",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "scripture_j3": {
+    "termId": "scripture_j3",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "scripture_j4": {
+    "termId": "scripture_j4",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "scripture_pent": {
+    "termId": "scripture_pent",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "scripture_soldier": {
+    "termId": "scripture_soldier",
+    "mapxKey": "Ephesians 6:10-18",
+    "altTermIds": ""
+  },
+  "scythia": {
+    "termId": "Σκύθης",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "sea_of_galilee_nt": {
+    "termId": "Γαλιλαία-2",
+    "mapxKey": "Sea of Galilee",
+    "altTermIds": "כִּנֶּרֶת-1, Γαλιλαία-1"
+  },
+  "sea_of_galilee_ot": {
+    "termId": "כִּנֶּרֶת-1",
+    "mapxKey": "Sea of Chinnereth (Galilee)",
+    "altTermIds": "Γαλιλαία-2"
+  },
+  "seleucia": {
+    "termId": "Σελεύκεια",
+    "mapxKey": "Seleucia",
+    "altTermIds": ""
+  },
+  "sept": {
+    "termId": "sept",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "serpents_pool": {
+    "termId": "serpents_pool",
+    "mapxKey": "Serpent’s Pool",
+    "altTermIds": ""
+  },
+  "shavot": {
+    "termId": "shavot",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "shechem_nt": {
+    "termId": "Συχέμ",
+    "mapxKey": "Shechem",
+    "altTermIds": "שְׁכֶם-1"
+  },
+  "shechem_ot": {
+    "termId": "שְׁכֶם-1",
+    "mapxKey": "Shechem",
+    "altTermIds": "Συχέμ"
+  },
+  "sheep_gate": {
+    "termId": "sheep_gate",
+    "mapxKey": "Sheep Gate",
+    "altTermIds": ""
+  },
+  "shem": {
+    "termId": "שֵׁם",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "shield_faith": {
+    "termId": "shield_faith",
+    "mapxKey": "Shield of Faith",
+    "altTermIds": ""
+  },
+  "shiloh": {
+    "termId": "שִׁילוֹ",
+    "mapxKey": "Shiloh",
+    "altTermIds": ""
+  },
+  "shittim": {
+    "termId": "שִׁטִּים",
+    "mapxKey": "Shittim",
+    "altTermIds": ""
+  },
+  "shoes_gospel": {
+    "termId": "shoes_gospel",
+    "mapxKey": "Shoes of the Gospel of Peace",
+    "altTermIds": ""
+  },
+  "shunem": {
+    "termId": "שׁוּנֵם",
+    "mapxKey": "Shunem",
+    "altTermIds": ""
+  },
+  "sicily": {
+    "termId": "sicily",
+    "mapxKey": "SICILY",
+    "altTermIds": ""
+  },
+  "sidon_nt": {
+    "termId": "Σιδών",
+    "mapxKey": "Sidon",
+    "altTermIds": "צִידוֹן"
+  },
+  "sidon_ot": {
+    "termId": "צִידוֹן",
+    "mapxKey": "Sidon",
+    "altTermIds": "Σιδών"
+  },
+  "sidonians": {
+    "termId": "צִידֹנִי",
+    "mapxKey": "SIDONIANS",
+    "altTermIds": ""
+  },
+  "simeon": {
+    "termId": "שִׁמְעוֹן-1",
+    "mapxKey": "SIMEON",
+    "altTermIds": ""
+  },
+  "sinai": {
+    "termId": "סִינַי",
+    "mapxKey": "SINAI",
+    "altTermIds": ""
+  },
+  "siwan": {
+    "termId": "siwan",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "smyrna": {
+    "termId": "Σμύρνα",
+    "mapxKey": "Smyrna",
+    "altTermIds": ""
+  },
+  "solomons_pool": {
+    "termId": "solomons_pool",
+    "mapxKey": "Solomon’s Pool",
+    "altTermIds": ""
+  },
+  "solomons_porch": {
+    "termId": "solomons_porch",
+    "mapxKey": "Solomon’s Porch",
+    "altTermIds": ""
+  },
+  "solomons_portico": {
+    "termId": "solomons_portico",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "south": {
+    "termId": "south",
+    "mapxKey": "South",
+    "altTermIds": ""
+  },
+  "south_america": {
+    "termId": "south_america",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "south-east_kitchen": {
+    "termId": "south-east_kitchen",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "south-west_kitchen": {
+    "termId": "south-west_kitchen",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "spain": {
+    "termId": "spain",
+    "mapxKey": "Hispania (Spain)",
+    "altTermIds": ""
+  },
+  "stairs": {
+    "termId": "stairs",
+    "mapxKey": "stairs",
+    "altTermIds": ""
+  },
+  "storm": {
+    "termId": "storm",
+    "mapxKey": "Quiets storm (Mt 8)",
+    "altTermIds": ""
+  },
+  "succoth": {
+    "termId": "סֻכּוֹת-1",
+    "mapxKey": "Succoth",
+    "altTermIds": ""
+  },
+  "sukkot": {
+    "termId": "sukkot",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "susa": {
+    "termId": "שׁוּשַׁן-2",
+    "mapxKey": "Susa",
+    "altTermIds": ""
+  },
+  "sword_word": {
+    "termId": "sword_word",
+    "mapxKey": "Sword of the Spirit (Word of God)",
+    "altTermIds": ""
+  },
+  "sychar": {
+    "termId": "Συχάρ",
+    "mapxKey": "Sychar",
+    "altTermIds": ""
+  },
+  "syebat": {
+    "termId": "syebat",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "syracuse": {
+    "termId": "Συράκουσαι",
+    "mapxKey": "Syracuse",
+    "altTermIds": ""
+  },
+  "syria_nt": {
+    "termId": "Συρία",
+    "mapxKey": "SYRIA",
+    "altTermIds": "אֲרָם-1, aram"
+  },
+  "syria_ot": {
+    "termId": "אֲרָם-1",
+    "mapxKey": "SYRIA",
+    "altTermIds": "Συρία, aram"
+  },
+  "syrtis": {
+    "termId": "Σύρτις",
+    "mapxKey": "SYRTIS",
+    "altTermIds": ""
+  },
+  "taanach": {
+    "termId": "תַּעְנַךְ",
+    "mapxKey": "Taanach",
+    "altTermIds": ""
+  },
+  "tamar": {
+    "termId": "תָּמָר-5",
+    "mapxKey": "Tamar",
+    "altTermIds": ""
+  },
+  "tamus": {
+    "termId": "tamus",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "tappuah": {
+    "termId": "תַּפּוּחַ-2",
+    "mapxKey": "Tappuah",
+    "altTermIds": ""
+  },
+  "tarsus": {
+    "termId": "Ταρσός",
+    "mapxKey": "Tarsus",
+    "altTermIds": ""
+  },
+  "taurus_mtns": {
+    "termId": "taurus_mtns",
+    "mapxKey": "TAURUS MTNS",
+    "altTermIds": ""
+  },
+  "tebet": {
+    "termId": "tebet",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "tekoa": {
+    "termId": "תְּקוֹעַ",
+    "mapxKey": "Tekoa",
+    "altTermIds": ""
+  },
+  "teman": {
+    "termId": "תֵּימָן-1",
+    "mapxKey": "Teman",
+    "altTermIds": ""
+  },
+  "temple": {
+    "termId": "temple",
+    "mapxKey": "Temple",
+    "altTermIds": ""
+  },
+  "Temple1_table": {
+    "termId": "Temple1_table",
+    "mapxKey": "Table of Show Bread",
+    "altTermIds": ""
+  },
+  "Temple2_lamp": {
+    "termId": "Temple2_lamp",
+    "mapxKey": "Lampstand",
+    "altTermIds": ""
+  },
+  "Temple3_altar": {
+    "termId": "Temple3_altar",
+    "mapxKey": "Altar of Incense",
+    "altTermIds": ""
+  },
+  "Temple4_curtain": {
+    "termId": "Temple4_curtain",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "Temple5_ark": {
+    "termId": "Temple5_ark",
+    "mapxKey": "Ark of the Covenant",
+    "altTermIds": ""
+  },
+  "Temple6_cherubim": {
+    "termId": "Temple6_cherubim",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "the_building": {
+    "termId": "the_building",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "the_negev": {
+    "termId": "נֶגֶב",
+    "mapxKey": "THE NEGEV",
+    "altTermIds": ""
+  },
+  "theater": {
+    "termId": "theater",
+    "mapxKey": "Theater",
+    "altTermIds": ""
+  },
+  "thessalonica": {
+    "termId": "Θεσσαλονίκη",
+    "mapxKey": "Thessalonica",
+    "altTermIds": ""
+  },
+  "thrace": {
+    "termId": "thrace",
+    "mapxKey": "THRACE",
+    "altTermIds": ""
+  },
+  "three_taverns": {
+    "termId": "three_taverns",
+    "mapxKey": "Three Taverns",
+    "altTermIds": ""
+  },
+  "thyatira": {
+    "termId": "Θυάτειρα",
+    "mapxKey": "Thyatira",
+    "altTermIds": ""
+  },
+  "tiberias": {
+    "termId": "Τιβεριάς-1",
+    "mapxKey": "Tiberias",
+    "altTermIds": ""
+  },
+  "tigris_river": {
+    "termId": "חִדֶּקֶל",
+    "mapxKey": "Tigris River",
+    "altTermIds": ""
+  },
+  "timnah": {
+    "termId": "תִּמְנָה-2",
+    "mapxKey": "Timnah",
+    "altTermIds": ""
+  },
+  "tirzah": {
+    "termId": "תִּרְצָה-2",
+    "mapxKey": "Tirzah",
+    "altTermIds": ""
+  },
+  "tisyri": {
+    "termId": "tisyri",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_7church": {
+    "termId": "title_7church",
+    "mapxKey": "Seven Churches of Asia",
+    "altTermIds": ""
+  },
+  "title_abraham_to_canaan": {
+    "termId": "title_abraham_to_canaan",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_abraham_to_egypt": {
+    "termId": "title_abraham_to_egypt",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_africa": {
+    "termId": "title_africa",
+    "mapxKey": "",
+    "altTermIds": "africa"
+  },
+  "title_ancient": {
+    "termId": "title_ancient",
+    "mapxKey": "Abraham’s World",
+    "altTermIds": ""
+  },
+  "title_canaanHG": {
+    "termId": "title_canaanHG",
+    "mapxKey": "Canaan  (Time of the Patriarchs)",
+    "altTermIds": ""
+  },
+  "title_christsministry": {
+    "termId": "title_christsministry",
+    "mapxKey": "Events In Christ’s Ministry",
+    "altTermIds": ""
+  },
+  "title_conquest": {
+    "termId": "title_conquest",
+    "mapxKey": "The Conquest of Canaan",
+    "altTermIds": ""
+  },
+  "title_dn": {
+    "termId": "title_dn",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_exodus": {
+    "termId": "title_exodus",
+    "mapxKey": "The Exodus from Egypt",
+    "altTermIds": ""
+  },
+  "title_ezekiel_temple": {
+    "termId": "title_ezekiel_temple",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_holy": {
+    "termId": "title_holy",
+    "mapxKey": "Israel in the Time of Jesus",
+    "altTermIds": ""
+  },
+  "title_hp": {
+    "termId": "title_hp",
+    "mapxKey": "High Priest",
+    "altTermIds": ""
+  },
+  "title_j0": {
+    "termId": "title_j0",
+    "mapxKey": "Places Paul Visited",
+    "altTermIds": ""
+  },
+  "title_j1": {
+    "termId": "title_j1",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_j2": {
+    "termId": "title_j2",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_j3": {
+    "termId": "title_j3",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_j4": {
+    "termId": "title_j4",
+    "mapxKey": "Paul's Fourth Journey (to Rome)",
+    "altTermIds": ""
+  },
+  "title_jacob2haran": {
+    "termId": "title_jacob2haran",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_jacobreturns": {
+    "termId": "title_jacobreturns",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_jerusalem_ill": {
+    "termId": "title_jerusalem_ill",
+    "mapxKey": "Jerusalem in the time of Christ",
+    "altTermIds": "jerusalem_title"
+  },
+  "title_jewish_calendar": {
+    "termId": "title_jewish_calendar",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_kingdoms": {
+    "termId": "title_kingdoms",
+    "mapxKey": "Kingdoms of Israel and Judah",
+    "altTermIds": ""
+  },
+  "title_med": {
+    "termId": "title_med",
+    "mapxKey": "The Mediterranean Area",
+    "altTermIds": ""
+  },
+  "title_pent": {
+    "termId": "title_pent",
+    "mapxKey": "Nations Whose Languages Were Heard at Pentecost",
+    "altTermIds": ""
+  },
+  "title_roman_empire": {
+    "termId": "title_roman_empire",
+    "mapxKey": "The Roman Empire during the time of Christ",
+    "altTermIds": ""
+  },
+  "title_ruth": {
+    "termId": "title_ruth",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_soldier": {
+    "termId": "title_soldier",
+    "mapxKey": "The Armor of God",
+    "altTermIds": ""
+  },
+  "title_tabernacle": {
+    "termId": "מִשְׁכָּן",
+    "mapxKey": "The Tabernacle",
+    "altTermIds": ""
+  },
+  "title_temple1": {
+    "termId": "title_temple1",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_temple2": {
+    "termId": "title_temple2",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_temple3": {
+    "termId": "title_temple3",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_world": {
+    "termId": "title_world",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "title_worldsimple": {
+    "termId": "title_worldsimple",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "tombs": {
+    "termId": "tombs",
+    "mapxKey": "Tombs",
+    "altTermIds": ""
+  },
+  "tower_of_Antonia": {
+    "termId": "tower_of_Antonia",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "towers_pool": {
+    "termId": "towers_pool",
+    "mapxKey": "Tower’s Pool",
+    "altTermIds": ""
+  },
+  "trachonitis": {
+    "termId": "Τραχωνῖτις",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "trade_routes": {
+    "termId": "trade_routes",
+    "mapxKey": "Trade routes",
+    "altTermIds": ""
+  },
+  "transfiguration": {
+    "termId": "transfiguration",
+    "mapxKey": "Transfiguration? (Mk 9)",
+    "altTermIds": ""
+  },
+  "troas": {
+    "termId": "Τρῳάς",
+    "mapxKey": "Troas",
+    "altTermIds": ""
+  },
+  "tu_bav": {
+    "termId": "tu_bav",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "tu_bishvat": {
+    "termId": "tu_bishvat",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "tubal": {
+    "termId": "תּוּבַל",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "tunic_hp": {
+    "termId": "tunic_hp",
+    "mapxKey": "Tunic of Fine Linen",
+    "altTermIds": ""
+  },
+  "turban_hp": {
+    "termId": "turban_hp",
+    "mapxKey": "Special Turban",
+    "altTermIds": ""
+  },
+  "tyre_nt": {
+    "termId": "Τύρος",
+    "mapxKey": "Tyre",
+    "altTermIds": "צוֹר"
+  },
+  "tyre_ot": {
+    "termId": "צוֹר",
+    "mapxKey": "Tyre",
+    "altTermIds": "Τύρος"
+  },
+  "tyropoeon_valley": {
+    "termId": "tyropoeon_valley",
+    "mapxKey": "Tyropoeon Valley",
+    "altTermIds": ""
+  },
+  "ugarit": {
+    "termId": "ugarit",
+    "mapxKey": "Ugarit",
+    "altTermIds": ""
+  },
+  "unleavened_bread": {
+    "termId": "מַצָּה",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "unsuc_inv_of_canaan": {
+    "termId": "unsuc_inv_of_canaan",
+    "mapxKey": "Unsuccessful invasion of Canaan",
+    "altTermIds": ""
+  },
+  "upper_room": {
+    "termId": "upper_room",
+    "mapxKey": "Upper Room",
+    "altTermIds": ""
+  },
+  "ur": {
+    "termId": "אוּר-1",
+    "mapxKey": "Ur",
+    "altTermIds": ""
+  },
+  "valley_gate": {
+    "termId": "valley_gate",
+    "mapxKey": "Valley Gate",
+    "altTermIds": ""
+  },
+  "wall_agrippa": {
+    "termId": "wall_agrippa",
+    "mapxKey": "Walls built by Agrippa I",
+    "altTermIds": ""
+  },
+  "wall_jesus": {
+    "termId": "wall_jesus",
+    "mapxKey": "Walls at the time of Jesus",
+    "altTermIds": ""
+  },
+  "wall_present": {
+    "termId": "wall_present",
+    "mapxKey": "Present day wall",
+    "altTermIds": ""
+  },
+  "wall_uncertain": {
+    "termId": "wall_uncertain",
+    "mapxKey": "Wall of uncertain date",
+    "altTermIds": ""
+  },
+  "water_gate": {
+    "termId": "water_gate",
+    "mapxKey": "Water Gate",
+    "altTermIds": ""
+  },
+  "way_of_shur": {
+    "termId": "way_of_shur",
+    "mapxKey": "Way of Shur",
+    "altTermIds": "שׁוּר"
+  },
+  "way_of_the_philistines": {
+    "termId": "way_of_the_philistines",
+    "mapxKey": "Way of the Philistines",
+    "altTermIds": ""
+  },
+  "well": {
+    "termId": "well",
+    "mapxKey": "Woman at the well (Jn 4)",
+    "altTermIds": ""
+  },
+  "west": {
+    "termId": "west",
+    "mapxKey": "West",
+    "altTermIds": ""
+  },
+  "widows_son": {
+    "termId": "widows_son",
+    "mapxKey": "Widow’s son raised (Lk 7)",
+    "altTermIds": ""
+  },
+  "wilderness_of_paran": {
+    "termId": "wilderness_of_paran",
+    "mapxKey": "Wilderness of Paran",
+    "altTermIds": "פָּארָן"
+  },
+  "wilderness_of_zin": {
+    "termId": "צִין",
+    "mapxKey": "Wilderness of Zin",
+    "altTermIds": ""
+  },
+  "wine": {
+    "termId": "wine",
+    "mapxKey": "Water turned to wine (Jn 2)",
+    "altTermIds": ""
+  },
+  "yom_kippur": {
+    "termId": "yom_kippur",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "yom_teruah": {
+    "termId": "yom_teruah",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "your_country": {
+    "termId": "your_country",
+    "mapxKey": "",
+    "altTermIds": ""
+  },
+  "zacchaeus": {
+    "termId": "zacchaeus",
+    "mapxKey": "Visits Zacchaeus (Lk 19)",
+    "altTermIds": ""
+  },
+  "zaphon": {
+    "termId": "צָפוֹן",
+    "mapxKey": "Zaphon",
+    "altTermIds": ""
+  },
+  "zarephath_nt": {
+    "termId": "Σάρεπτα",
+    "mapxKey": "Zarephath",
+    "altTermIds": "צָרְפַת"
+  },
+  "zarephath_ot": {
+    "termId": "צָרְפַת",
+    "mapxKey": "Zarephath",
+    "altTermIds": "Σάρεπτα"
+  },
+  "zebulun": {
+    "termId": "זְבוּלוּן",
+    "mapxKey": "ZEBULUN",
+    "altTermIds": ""
+  },
+  "ziklag": {
+    "termId": "צִקְלַג",
+    "mapxKey": "Ziklag",
+    "altTermIds": ""
+  },
+  "zoar": {
+    "termId": "צֹעַר",
+    "mapxKey": "Zoar",
+    "altTermIds": ""
+  },
+  "zobah": {
+    "termId": "צוֹבָה",
+    "mapxKey": "ZOBAH",
+    "altTermIds": ""
+  },
+  "babel": {
+    "termId": "babel",
+    "mapxKey": "Babel",
+    "altTermIds": "בָּבֶל, Βαβυλών"
+  },
+  "salem": {
+    "termId": "שָׁלֵם",
+    "mapxKey": "Salem",
+    "altTermIds": ""
+  },
+  "mt_hor": {
+    "termId": "הֹר",
+    "mapxKey": "Mt. Hor",
+    "altTermIds": ""
+  },
+  "title_acts8": {
+    "termId": "title_acts8",
+    "mapxKey": "Acts Chapter 8",
+    "altTermIds": ""
+  },
+  "amalek": {
+    "termId": "עֲמָלֵק",
+    "mapxKey": "AMALEK",
+    "altTermIds": ""
+  },
+  "berothai": {
+    "termId": "בֵּרוֹתָה",
+    "mapxKey": "Berothai",
+    "altTermIds": ""
+  },
+  "besor": {
+    "termId": "בְּשׂוֹר",
+    "mapxKey": "Besor",
+    "altTermIds": ""
+  },
+  "beth-aven": {
+    "termId": "בֵּית אָוֶן-1",
+    "mapxKey": "Beth-aven",
+    "altTermIds": ""
+  },
+  "beth-shan": {
+    "termId": "בֵּית שַׁן",
+    "mapxKey": "Beth-shan",
+    "altTermIds": ""
+  },
+  "bezek": {
+    "termId": "בֶּזֶק",
+    "mapxKey": "Bezek",
+    "altTermIds": ""
+  },
+  "brook_besor": {
+    "termId": "brook_besor",
+    "mapxKey": "Brook Besor",
+    "altTermIds": ""
+  },
+  "title_samuel_david": {
+    "termId": "title_samuel_david",
+    "mapxKey": "Cities In The Time of Samuel and David",
+    "altTermIds": ""
+  },
+  "maon_desert": {
+    "termId": "maon_desert",
+    "mapxKey": "Desert of Maon",
+    "altTermIds": ""
+  },
+  "dumah": {
+    "termId": "דּוּמָה-1",
+    "mapxKey": "Dumah",
+    "altTermIds": ""
+  },
+  "ebenezer": {
+    "termId": "אֶבֶן הָעֵזֶר",
+    "mapxKey": "Ebenezer",
+    "altTermIds": ""
+  },
+  "title_galilee": {
+    "termId": "title_galilee",
+    "mapxKey": "Galilee at the time of Jesus",
+    "altTermIds": ""
+  },
+  "geba": {
+    "termId": "גֶּבַע-1",
+    "mapxKey": "Geba",
+    "altTermIds": ""
+  },
+  "gerar": {
+    "termId": "גְּרָר",
+    "mapxKey": "Gerar",
+    "altTermIds": ""
+  },
+  "geshur": {
+    "termId": "גְּשׁוּר",
+    "mapxKey": "Geshur",
+    "altTermIds": ""
+  },
+  "havilah": {
+    "termId": "חֲוִילָה",
+    "mapxKey": "HAVILAH",
+    "altTermIds": ""
+  },
+  "title_israel_tribes": {
+    "termId": "title_israel_tribes",
+    "mapxKey": "Israel's Tribal Borders",
+    "altTermIds": ""
+  },
+  "jebus": {
+    "termId": "יְבוּס",
+    "mapxKey": "Jebus (Jerusalem)",
+    "altTermIds": ""
+  },
+  "jonah": {
+    "termId": "יוֹנָה-2",
+    "mapxKey": "Jonah",
+    "altTermIds": ""
+  },
+  "keilah": {
+    "termId": "קְעִילָה",
+    "mapxKey": "Keilah",
+    "altTermIds": ""
+  },
+  "kenite": {
+    "termId": "קֵינִי",
+    "mapxKey": "KENITE",
+    "altTermIds": ""
+  },
+  "lo-debar": {
+    "termId": "לוֹ דְבָר",
+    "mapxKey": "Lo-debar",
+    "altTermIds": ""
+  },
+  "maacah": {
+    "termId": "מַעֲכָה-2",
+    "mapxKey": "Maacah",
+    "altTermIds": ""
+  },
+  "maon": {
+    "termId": "מָעוֹן-1",
+    "mapxKey": "Maon",
+    "altTermIds": ""
+  },
+  "michmash": {
+    "termId": "מִכְמָשׂ",
+    "mapxKey": "Michmash",
+    "altTermIds": ""
+  },
+  "paran": {
+    "termId": "פָּארָן",
+    "mapxKey": "Paran",
+    "altTermIds": "wilderness_of_paran"
+  },
+  "rehoboth": {
+    "termId": "רְחֹבוֹת-1",
+    "mapxKey": "Rehoboth",
+    "altTermIds": ""
+  },
+  "shur": {
+    "termId": "שׁוּר",
+    "mapxKey": "Shur",
+    "altTermIds": "way_of_shur"
+  },
+  "socoh": {
+    "termId": "שׂוֹכֹה-1",
+    "mapxKey": "Socoh",
+    "altTermIds": ""
+  },
+  "tarshish": {
+    "termId": "תַּרְשִׁישׁ-2",
+    "mapxKey": "Tarshish",
+    "altTermIds": ""
+  },
+  "telaim": {
+    "termId": "טְלָאִים",
+    "mapxKey": "Telaim",
+    "altTermIds": ""
+  },
+  "title_exodus_and_canaan": {
+    "termId": "title_exodus_and_canaan",
+    "mapxKey": "The Exodus and Canaan",
+    "altTermIds": ""
+  },
+  "title_samuel_to_david": {
+    "termId": "title_samuel_to_david",
+    "mapxKey": "Time of Samuel to David",
+    "altTermIds": ""
+  },
+  "tob": {
+    "termId": "טוֹב",
+    "mapxKey": "Tob",
+    "altTermIds": ""
+  },
+  "valley_elah": {
+    "termId": "אֵלָה-1",
+    "mapxKey": "Valley of Elah",
+    "altTermIds": ""
+  },
+  "ziph": {
+    "termId": "זִיף-2",
+    "mapxKey": "Ziph",
+    "altTermIds": ""
+  },
+  "rome_country": {
+    "termId": "rome_country",
+    "mapxKey": "Rome",
+    "altTermIds": ""
+  }
+}
