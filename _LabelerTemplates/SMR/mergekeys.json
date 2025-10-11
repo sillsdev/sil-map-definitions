@@ -370,9 +370,9 @@
     "altTermIds": ""
   },
   "beth_shean": {
-    "termId": "beth_shean",
+    "termId": "בֵּית שַׁן",
     "mapxKey": "Beth Shean",
-    "altTermIds": ""
+    "altTermIds": "beth_shean"
   },
   "beth_shemesh": {
     "termId": "בֵּית־שֶׁמֶשׁ-1",
@@ -3152,11 +3152,6 @@
   "beth-aven": {
     "termId": "בֵּית אָוֶן-1",
     "mapxKey": "Beth-aven",
-    "altTermIds": ""
-  },
-  "beth-shan": {
-    "termId": "בֵּית שַׁן",
-    "mapxKey": "Beth-shan",
     "altTermIds": ""
   },
   "bezek": {
