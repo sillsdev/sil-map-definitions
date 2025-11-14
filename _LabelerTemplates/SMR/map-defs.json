@@ -7,13 +7,14 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_005wbt - Gen10 Descendants Of Noah.jpg",
-    "titleKey": "title_dn",
+    "mapGroup": "",
+    "refs": "GEN10",
     "title": {
       "en": "The Descendants of Noah",
       "es": "Los descendientes de Noé"
     },
-    "description": {
-      "en": "",
+    "keywords": {
+      "en": "Flood",
       "es": ""
     },
     "variants": {},
@@ -253,13 +254,14 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_015wbt - Ancient World [bwf].jpg",
-    "titleKey": "title_ancient",
+    "mapGroup": "",
+    "refs": "GEN11; GEN12",
     "title": {
       "en": "Abraham’s World",
       "es": "El mundo de Abraham"
     },
-    "description": {
-      "en": "",
+    "keywords": {
+      "en": "Ur; Abram",
       "es": ""
     },
     "variants": {},
@@ -814,13 +816,14 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_015wbt - Ancient World.jpg",
-    "titleKey": "title_ancient",
+    "mapGroup": "",
+    "refs": "GEN11; GEN12",
     "title": {
       "en": "Abraham’s World",
       "es": "El mundo de Abraham"
     },
-    "description": {
-      "en": "",
+    "keywords": {
+      "en": "Ur; Abram",
       "es": ""
     },
     "variants": {},
@@ -1429,13 +1432,14 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_025wbt - Abraham To Canaan.jpg",
-    "titleKey": "title_abraham_to_canaan",
+    "mapGroup": "",
+    "refs": "GEN12",
     "title": {
       "en": "Abraham's Journey to Canaan",
       "es": "El viaje de Abraham a Canaán"
     },
-    "description": {
-      "en": "",
+    "keywords": {
+      "en": "Ur; Abram",
       "es": ""
     },
     "variants": {},
@@ -1621,13 +1625,14 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_028wbt - Abraham To Egypt.jpg",
-    "titleKey": "title_abraham_to_egypt",
+    "mapGroup": "",
+    "refs": "GEN12",
     "title": {
       "en": "Abraham's Journey to Egypt",
       "es": "El viaje de Abraham a Egipto"
     },
-    "description": {
-      "en": "",
+    "keywords": {
+      "en": "Ur; Abram",
       "es": ""
     },
     "variants": {},
@@ -1750,12 +1755,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_035wbt - Gen28 Jacob To Haran.jpg",
-    "titleKey": "title_jacob2haran",
+    "mapGroup": "",
+    "refs": "GEN28, GEN29, GEN30",
     "title": {
       "en": "Jacob's Journey to Haran",
       "es": "El viaje de Jacob a Harán"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -1852,12 +1858,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_038wbt - Gen32-33 Jacob Returns.jpg",
-    "titleKey": "title_jacobreturns",
+    "mapGroup": "",
+    "refs": "GEN31, GEN32, GEN33",
     "title": {
       "en": "Jacob's return",
       "es": "El regreso de Jacob"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -2026,13 +2033,14 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_055wbt - Exodus.jpg",
-    "titleKey": "title_exodus",
+    "mapGroup": "",
+    "refs": "EXO12, EXO13, EXO14",
     "title": {
       "en": "The Exodus from Egypt",
       "es": "El éxodo de Egipto"
     },
-    "description": {
-      "en": "",
+    "keywords": {
+      "en": "Moses",
       "es": ""
     },
     "variants": {
@@ -2404,12 +2412,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_065wbt - Ruth.jpg",
-    "titleKey": "title_ruth",
+    "mapGroup": "",
+    "refs": "RUT01, RUT02, RUT03",
     "title": {
       "en": "Ruth's journey",
       "es": "El viaje de Ruth"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -2551,12 +2560,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_075wbt - Conquest Canaan.jpg",
-    "titleKey": "title_conquest",
+    "mapGroup": "",
+    "refs": "JOS01, JOS06, JOS21",
     "title": {
       "en": "The Conquest of Canaan",
       "es": "La conquista de Canaán"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -3463,12 +3473,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_085wbt - Canaan.jpg",
-    "titleKey": "title_canaanHG",
+    "mapGroup": "",
+    "refs": "GEN12, GEN17, EXO03; NUM35, DEU19, JOS20",
     "title": {
       "en": "Land of Canaan / Cities of Refuge",
-      "es": "Tierra de Canaán / Ciudades de refugio"
+      "es": "Tierra de Canaán / Ciudades de Refugio"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -4039,12 +4050,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_095wbt - Kingdoms Israel Judah [bwf].jpg",
-    "titleKey": "title_kingdoms",
+    "mapGroup": "",
+    "refs": "1KI12, 2KI17, 2CH10",
     "title": {
       "en": "Kingdoms of Israel and Judah",
       "es": "Reinos de Israel y Judá"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -4501,12 +4513,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_095wbt - Kingdoms Israel Judah.jpg",
-    "titleKey": "title_kingdoms",
+    "mapGroup": "",
+    "refs": "1KI12, 2KI17, 2CH10",
     "title": {
       "en": "Kingdoms of Israel and Judah",
       "es": "Reinos de Israel y Judá"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -5260,12 +5273,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_105gt - Persian Empire.jpg",
-    "titleKey": "persia_title01",
+    "mapGroup": "",
+    "refs": "EZR01, NEH02, DAN08",
     "title": {
       "en": "The Persian Empire",
       "es": "El Imperio Persa"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -5650,12 +5664,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_108gt - Jewish Calendar.jpg",
-    "titleKey": "title_jewish_calendar",
+    "mapGroup": "diagram",
+    "refs": "",
     "title": {
       "en": "The Jewish Calendar",
       "es": "El calendario judío"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -5986,12 +6001,13 @@
     "owner": "BFBS",
     "ownerRules": "https://tiny.cc/bfbs-rules",
     "imgFilename": "smr_110hk - Jerusalem Illustration.jpg",
-    "titleKey": "title_jerusalem_ill",
+    "mapGroup": "",
+    "refs": "MAT21, LUK19, JHN02",
     "title": {
       "en": "Jerusalem in the time of Christ",
-      "es": "Jerusalén en el tiempo de Cristo"
+      "es": "Jerusalén en tiempos de Cristo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -6169,12 +6185,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_115wbt - Jerusalem.jpg",
-    "titleKey": "jerusalem_title",
+    "mapGroup": "",
+    "refs": "MAT21, LUK19, JHN02",
     "title": {
       "en": "Jerusalem in New Testament Times",
-      "es": "Jerusalén en los tiempos del Nuevo Testamento"
+      "es": "Jerusalén en tiempos del Nuevo Testamento"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -6676,12 +6693,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_120gt - Tabernacle.jpg",
-    "titleKey": "title_tabernacle",
+    "mapGroup": "",
+    "refs": "EXO25, EXO26, EXO40",
     "title": {
       "en": "The Tabernacle",
       "es": "El Tabernáculo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -6796,12 +6814,13 @@
     "owner": "BFBS",
     "ownerRules": "https://tiny.cc/bfbs-rules",
     "imgFilename": "smr_125hk - Temple.jpg",
-    "titleKey": "title_temple1",
+    "mapGroup": "",
+    "refs": "MAT21, MRK11, LUK19",
     "title": {
       "en": "The Temple",
-      "es": "El templo"
+      "es": "El Templo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -6916,12 +6935,13 @@
     "owner": "BFBS",
     "ownerRules": "https://tiny.cc/bfbs-rules",
     "imgFilename": "smr_135hk - Temple Layout.jpg",
-    "titleKey": "title_temple2",
+    "mapGroup": "",
+    "refs": "MAT21, MRK11, LUK19",
     "title": {
       "en": "The Layout of the Temple",
-      "es": "La disposición del templo"
+      "es": "El plano del templo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -7027,12 +7047,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_135mh - Temple Layout.jpg",
-    "titleKey": "title_temple2",
+    "mapGroup": "",
+    "refs": "MAT21, MRK11, LUK19",
     "title": {
       "en": "The Layout of the Temple",
-      "es": "La disposición del templo"
+      "es": "El plano del templo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -7138,12 +7159,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_138gt - Ezekiels Temple.jpg",
-    "titleKey": "title_ezekiel_temple",
+    "mapGroup": "",
+    "refs": "EZK40, EZK41, EZK43",
     "title": {
       "en": "Ezekiel's Temple",
       "es": "El templo de Ezequiel"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -7285,12 +7307,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_140gt - High Priest.jpg",
-    "titleKey": "title_hp",
+    "mapGroup": "diagram",
+    "refs": "LEV21, HEB04, HEB05",
     "title": {
       "en": "High Priest",
       "es": "Sumo sacerdote"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -7423,13 +7446,14 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_143gt - Roman Soldier.jpg",
-    "titleKey": "title_soldier",
+    "mapGroup": "diagram",
+    "refs": "EPH06",
     "title": {
       "en": "The Armor of God",
       "es": "La armadura de Dios"
     },
-    "description": {
-      "en": "",
+    "keywords": {
+      "en": "soldier; roman",
       "es": ""
     },
     "variants": {},
@@ -7516,12 +7540,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_155wbt - Holy Land [bwf].jpg",
-    "titleKey": "title_holy",
+    "mapGroup": "",
+    "refs": "MAT04, MRK01, LUK04",
     "title": {
       "en": "Israel in the Time of Jesus",
-      "es": "Israel en el tiempo de Jesús"
+      "es": "Israel en tiempos de Jesús"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -8005,12 +8030,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_155wbt - Holy Land.jpg",
-    "titleKey": "title_holy",
+    "mapGroup": "",
+    "refs": "MAT04, MRK01, LUK04",
     "title": {
       "en": "Israel in the Time of Jesus",
-      "es": "Israel en el tiempo de Jesús"
+      "es": "Israel en tiempos de Jesús"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -8377,12 +8403,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_165wbt - Christs Ministry.jpg",
-    "titleKey": "title_christsministry",
+    "mapGroup": "",
+    "refs": "",
     "title": {
       "en": "Events In Christ’s Ministry",
-      "es": "Eventos en el ministerio de Cristo"
+      "es": "Eventos en el Ministerio de Cristo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -8794,12 +8821,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_175wbt - Pentecost [bwf-dark].jpg",
-    "titleKey": "title_pent",
+    "mapGroup": "",
+    "refs": "ACT02",
     "title": {
       "en": "Nations Whose Languages Were Heard at Pentecost",
-      "es": "Naciones cuyas lenguas se escucharon en Pentecostés"
+      "es": "Naciones cuyos idiomas se escucharon en Pentecostés"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -9085,12 +9113,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_175wbt - Pentecost [bwf-light].jpg",
-    "titleKey": "title_pent",
+    "mapGroup": "",
+    "refs": "ACT02",
     "title": {
       "en": "Nations Whose Languages Were Heard at Pentecost",
-      "es": "Naciones cuyas lenguas se escucharon en Pentecostés"
+      "es": "Naciones cuyos idiomas se escucharon en Pentecostés"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -9322,13 +9351,14 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_185wbt - Philips Travels [sm-bwf].jpg",
-    "titleKey": "philipstravels_title",
+    "mapGroup": "",
+    "refs": "ACT08",
     "title": {
       "en": "Philip’s Travels",
       "es": "Los viajes de Felipe"
     },
-    "description": {
-      "en": "",
+    "keywords": {
+      "en": "Ethiopian",
       "es": ""
     },
     "variants": {},
@@ -9532,13 +9562,14 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_185wbt - Philips Travels [sm].jpg",
-    "titleKey": "philipstravels_title",
+    "mapGroup": "",
+    "refs": "ACT08",
     "title": {
       "en": "Philip’s Travels",
       "es": "Los viajes de Felipe"
     },
-    "description": {
-      "en": "",
+    "keywords": {
+      "en": "Ethiopian",
       "es": ""
     },
     "variants": {},
@@ -9742,13 +9773,14 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_185wbt - Philips Travels.jpg",
-    "titleKey": "philipstravels_title",
+    "mapGroup": "",
+    "refs": "ACT08",
     "title": {
       "en": "Philip’s Travels",
       "es": "Los viajes de Felipe"
     },
-    "description": {
-      "en": "Philip’s Travels",
+    "keywords": {
+      "en": "Ethiopian",
       "es": "A shorter map showing the route of Philip the Evangelist, as he preached, baptized, and apparated. (Acts 8:5-40)"
     },
     "variants": {},
@@ -10015,12 +10047,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_195wbt - Paul journey 1 [bwf-dark].jpg",
-    "titleKey": "title_j1",
+    "mapGroup": "",
+    "refs": "ACT13, ACT14",
     "title": {
       "en": "Paul's First Journey",
       "es": "El primer viaje de Pablo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -10360,12 +10393,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_195wbt - Paul journey 1 [bwf-light].jpg",
-    "titleKey": "title_j1",
+    "mapGroup": "",
+    "refs": "ACT13, ACT14",
     "title": {
       "en": "Paul's First Journey",
       "es": "El primer viaje de Pablo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -10570,12 +10604,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_195wbt - Paul journey 1 [bwr].jpg",
-    "titleKey": "title_j1",
+    "mapGroup": "",
+    "refs": "ACT13, ACT14",
     "title": {
       "en": "Paul's First Journey",
       "es": "El primer viaje de Pablo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -10771,12 +10806,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_205wbt - Paul journey 2 [bwf-dark].jpg",
-    "titleKey": "title_j2",
+    "mapGroup": "",
+    "refs": "ACT15, ACT16, ACT18",
     "title": {
       "en": "Paul's Second Journey",
       "es": "El segundo viaje de Pablo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -11188,12 +11224,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_205wbt - Paul journey 2 [bwf-light].jpg",
-    "titleKey": "title_j2",
+    "mapGroup": "",
+    "refs": "ACT15, ACT16, ACT18",
     "title": {
       "en": "Paul's Second Journey",
       "es": "El segundo viaje de Pablo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -11515,12 +11552,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_205wbt - Paul journey 2 [bwr].jpg",
-    "titleKey": "title_j2",
+    "mapGroup": "",
+    "refs": "ACT15, ACT16, ACT18",
     "title": {
       "en": "Paul's Second Journey",
       "es": "El segundo viaje de Pablo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -11968,12 +12006,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_215wbt - Paul journey 3 [bwf-dark].jpg",
-    "titleKey": "title_j3",
+    "mapGroup": "",
+    "refs": "ACT18, ACT19, ACT20",
     "title": {
       "en": "Paul's Third Journey",
       "es": "El tercer viaje de Pablo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -12331,12 +12370,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_215wbt - Paul journey 3 [bwf-light].jpg",
-    "titleKey": "title_j3",
+    "mapGroup": "",
+    "refs": "ACT18, ACT19, ACT20",
     "title": {
       "en": "Paul's Third Journey",
       "es": "El tercer viaje de Pablo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -12703,12 +12743,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_215wbt - Paul journey 3 [bwr].jpg",
-    "titleKey": "title_j3",
+    "mapGroup": "",
+    "refs": "ACT18, ACT19, ACT20",
     "title": {
       "en": "Paul's Third Journey",
       "es": "El tercer viaje de Pablo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -13111,12 +13152,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_225wbt - Paul to Rome [bwf-dark].jpg",
-    "titleKey": "title_j4",
+    "mapGroup": "",
+    "refs": "ACT27, ACT28",
     "title": {
       "en": "Paul's Fourth Journey (to Rome)",
       "es": "El cuarto viaje de Pablo (a Roma)"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -13474,12 +13516,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_225wbt - Paul to Rome [bwf-light].jpg",
-    "titleKey": "title_j4",
+    "mapGroup": "",
+    "refs": "ACT27, ACT28",
     "title": {
       "en": "Paul's Fourth Journey (to Rome)",
       "es": "El cuarto viaje de Pablo (a Roma)"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -13747,12 +13790,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_225wbt - Paul to Rome [bwr].jpg",
-    "titleKey": "title_j4",
+    "mapGroup": "",
+    "refs": "ACT27, ACT28",
     "title": {
       "en": "Paul's Fourth Journey (to Rome)",
       "es": "El cuarto viaje de Pablo (a Roma)"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -14155,12 +14199,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_235wbt - Paul Journeys [2pg].jpg",
-    "titleKey": "title_j0",
+    "mapGroup": "",
+    "refs": "ACT13, ACT18, ACT20",
     "title": {
       "en": "Places Paul Visited",
-      "es": "Lugares que visitó Paul"
+      "es": "Lugares que visitó Pablo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -14960,20 +15005,997 @@
       }
     ]
   },
+  "SMR_235wbt - Paul Journeys [2pg+]": {
+    "mapTypes": "fcr",
+    "formats": "mapx",
+    "width": 1000,
+    "height": 769,
+    "owner": "SIL Global",
+    "ownerRules": "https://tiny.cc/wbt-rules",
+    "imgFilename": "smr_235wbt - Paul Journeys [2pg+].jpg",
+    "mapGroup": "",
+    "refs": "ACT13, ACT18, ACT20",
+    "title": {
+      "en": "Places Paul Visited",
+      "es": "Lugares que visitó Pablo"
+    },
+    "keywords": {
+      "en": "",
+      "es": ""
+    },
+    "variants": {},
+    "labels": [
+      {
+        "mergeKey": "title_j0",
+        "x": 213,
+        "y": 618,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 1
+      },
+      {
+        "mergeKey": "north",
+        "x": 920,
+        "y": 18,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 4
+      },
+      {
+        "mergeKey": "illyricum",
+        "x": 289,
+        "y": 47,
+        "align": "center",
+        "angle": 322,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "samothrace",
+        "x": 545,
+        "y": 210,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "scale_k",
+        "x": 667,
+        "y": 707,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 4
+      },
+      {
+        "mergeKey": "black_sea",
+        "x": 699,
+        "y": 67,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "dalmatia",
+        "x": 284,
+        "y": 76,
+        "align": "center",
+        "angle": 318,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "rome",
+        "x": 81,
+        "y": 95,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "italy",
+        "x": 121,
+        "y": 95,
+        "align": "center",
+        "angle": 318,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "pontus",
+        "x": 817,
+        "y": 113,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "thrace",
+        "x": 536,
+        "y": 116,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "three_taverns",
+        "x": 80,
+        "y": 125,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "forum_of_appius",
+        "x": 98,
+        "y": 137,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "macedonia",
+        "x": 443,
+        "y": 138,
+        "align": "center",
+        "angle": 15,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "philippi",
+        "x": 472,
+        "y": 146,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "puteoli",
+        "x": 126,
+        "y": 155,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "neapolis",
+        "x": 494,
+        "y": 158,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "bithynia",
+        "x": 739,
+        "y": 158,
+        "align": "center",
+        "angle": 16,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "armenia",
+        "x": 929,
+        "y": 164,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "thessalonica",
+        "x": 422,
+        "y": 167,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "amphipolis",
+        "x": 466,
+        "y": 181,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "berea",
+        "x": 405,
+        "y": 185,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "apollonia",
+        "x": 448,
+        "y": 191,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "greece",
+        "x": 356,
+        "y": 200,
+        "align": "center",
+        "angle": 306,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "galatia",
+        "x": 806,
+        "y": 211,
+        "align": "center",
+        "angle": 27,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "adramyttium",
+        "x": 580,
+        "y": 218,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "troas",
+        "x": 545,
+        "y": 224,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "asia",
+        "x": 719,
+        "y": 231,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "mysia",
+        "x": 611,
+        "y": 233,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "assos",
+        "x": 554,
+        "y": 237,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "pergamum",
+        "x": 599,
+        "y": 248,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "nicopolis",
+        "x": 354,
+        "y": 249,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "cappadocia",
+        "x": 905,
+        "y": 250,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "mitylene",
+        "x": 555,
+        "y": 258,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "thyatira",
+        "x": 622,
+        "y": 261,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "phrygia",
+        "x": 718,
+        "y": 269,
+        "align": "center",
+        "angle": 64,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "sardis",
+        "x": 629,
+        "y": 274,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "smyrna",
+        "x": 593,
+        "y": 275,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "lycaonia",
+        "x": 844,
+        "y": 280,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "achaia",
+        "x": 396,
+        "y": 282,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "antioch_syria",
+        "x": 743,
+        "y": 283,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "philadelphia",
+        "x": 654,
+        "y": 288,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "rhegium",
+        "x": 196,
+        "y": 289,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "chios",
+        "x": 550,
+        "y": 290,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "lydia",
+        "x": 624,
+        "y": 290,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "iconium",
+        "x": 806,
+        "y": 292,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "ephesus",
+        "x": 608,
+        "y": 300,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "hierapolis",
+        "x": 676,
+        "y": 301,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "cilicia",
+        "x": 893,
+        "y": 302,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "pisidia",
+        "x": 741,
+        "y": 305,
+        "align": "center",
+        "angle": 32,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "sicily",
+        "x": 101,
+        "y": 308,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "corinth",
+        "x": 429,
+        "y": 313,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "samos",
+        "x": 552,
+        "y": 313,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "lystra",
+        "x": 785,
+        "y": 314,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "colossae",
+        "x": 682,
+        "y": 316,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "athens",
+        "x": 473,
+        "y": 317,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "laodicea",
+        "x": 663,
+        "y": 318,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "cenchrea",
+        "x": 434,
+        "y": 324,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "derbe",
+        "x": 815,
+        "y": 325,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "pamphylia",
+        "x": 758,
+        "y": 331,
+        "align": "center",
+        "angle": 353,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "miletus",
+        "x": 606,
+        "y": 333,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "tarsus",
+        "x": 894,
+        "y": 335,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "syracuse",
+        "x": 128,
+        "y": 342,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "perga",
+        "x": 747,
+        "y": 345,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "attalia",
+        "x": 708,
+        "y": 347,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "patmos",
+        "x": 565,
+        "y": 352,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "seleucia",
+        "x": 923,
+        "y": 355,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "cnidus",
+        "x": 612,
+        "y": 358,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "lycia",
+        "x": 688,
+        "y": 360,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "antioch_pisidia",
+        "x": 949,
+        "y": 361,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "myra",
+        "x": 712,
+        "y": 369,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "patara",
+        "x": 672,
+        "y": 372,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "cos",
+        "x": 588,
+        "y": 374,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "syria_nt",
+        "x": 962,
+        "y": 384,
+        "align": "left",
+        "angle": 304,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "rhodes",
+        "x": 631,
+        "y": 391,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "malta",
+        "x": 103,
+        "y": 392,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "salamis",
+        "x": 852,
+        "y": 409,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "crete",
+        "x": 510,
+        "y": 424,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "cyprus",
+        "x": 807,
+        "y": 425,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "phoenix",
+        "x": 473,
+        "y": 430,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "salmone",
+        "x": 573,
+        "y": 443,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "fair_havens",
+        "x": 483,
+        "y": 449,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "paphos",
+        "x": 796,
+        "y": 454,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "lasea",
+        "x": 519,
+        "y": 455,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "cauda",
+        "x": 455,
+        "y": 462,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "damascus_nt",
+        "x": 964,
+        "y": 480,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "sidon_nt",
+        "x": 928,
+        "y": 494,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "tyre_nt",
+        "x": 926,
+        "y": 506,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "ptolemais",
+        "x": 925,
+        "y": 519,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "mediterranean_sea",
+        "x": 440,
+        "y": 523,
+        "align": "center",
+        "angle": 352,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "caesarea",
+        "x": 917,
+        "y": 543,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "antipatris",
+        "x": 919,
+        "y": 556,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "cyrene",
+        "x": 381,
+        "y": 561,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "joppa_nt",
+        "x": 894,
+        "y": 565,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "palestine",
+        "x": 957,
+        "y": 570,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "libya_nt",
+        "x": 378,
+        "y": 584,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "jerusalem_nt",
+        "x": 935,
+        "y": 594,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "gaza_nt",
+        "x": 882,
+        "y": 598,
+        "align": "right",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "judea",
+        "x": 899,
+        "y": 619,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "alexandria",
+        "x": 718,
+        "y": 627,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "legend_1",
+        "x": 82,
+        "y": 644,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "legend_2",
+        "x": 82,
+        "y": 662,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "arabia_nt",
+        "x": 920,
+        "y": 671,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "egypt_nt",
+        "x": 757,
+        "y": 680,
+        "align": "center",
+        "angle": 0,
+        "variant": 0,
+        "size": 2
+      },
+      {
+        "mergeKey": "legend_3",
+        "x": 82,
+        "y": 681,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      },
+      {
+        "mergeKey": "legend_4",
+        "x": 82,
+        "y": 699,
+        "align": "left",
+        "angle": 0,
+        "variant": 0,
+        "size": 3
+      }
+    ]
+  },
   "SMR_235wbt - Paul Journeys [bwf-light]": {
     "mapTypes": "bwf",
-    "formats": "idml, mapx",
+    "formats": "idml",
     "width": 1000,
     "height": 734,
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_235wbt - Paul Journeys [bwf-light].jpg",
-    "titleKey": "title_j0",
+    "mapGroup": "",
+    "refs": "ACT13, ACT18, ACT20",
     "title": {
       "en": "Places Paul Visited",
-      "es": "Lugares que visitó Paul"
+      "es": "Lugares que visitó Pablo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -15946,18 +16968,19 @@
   },
   "SMR_245wbt - Seven Churches [bwf-dark]": {
     "mapTypes": "bwf",
-    "formats": "idml, mapx",
+    "formats": "idml",
     "width": 1000,
     "height": 791,
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_245wbt - Seven Churches [bwf-dark].jpg",
-    "titleKey": "title_7church",
+    "mapGroup": "",
+    "refs": "REV02, REV03",
     "title": {
       "en": "Seven Churches of Asia",
-      "es": "Siete iglesias de Asia"
+      "es": "Siete Iglesias de Asia"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -16081,12 +17104,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_245wbt - Seven Churches.jpg",
-    "titleKey": "title_7church",
+    "mapGroup": "",
+    "refs": "REV02, REV03",
     "title": {
       "en": "Seven Churches of Asia",
-      "es": "Siete iglesias de Asia"
+      "es": "Siete Iglesias de Asia"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -16201,12 +17225,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_265wbt - World.jpg",
-    "titleKey": "title_world",
+    "mapGroup": "modern",
+    "refs": "",
     "title": {
       "en": "World Map",
-      "es": "Mapa del mundo"
+      "es": "Mapa mundial"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -16357,12 +17382,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_265wbt - World [flipped].jpg",
-    "titleKey": "title_world",
+    "mapGroup": "modern",
+    "refs": "",
     "title": {
       "en": "World Map",
-      "es": "Mapa del mundo"
+      "es": "Mapa mundial"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -16513,12 +17539,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_275wbt - World Simple.jpg",
-    "titleKey": "title_worldsimple",
+    "mapGroup": "modern",
+    "refs": "",
     "title": {
       "en": "World Map",
-      "es": "Mapa del mundo"
+      "es": "Mapa mundial"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -16570,12 +17597,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_278wbt - Africa.jpg",
-    "titleKey": "title_africa",
+    "mapGroup": "modern",
+    "refs": "",
     "title": {
       "en": "Africa",
       "es": "África"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -16627,12 +17655,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_285wbt - Mediterranean Area.jpg",
-    "titleKey": "title_med",
+    "mapGroup": "",
+    "refs": "",
     "title": {
       "en": "The Mediterranean Area",
-      "es": "El área mediterránea"
+      "es": "La zona mediterránea"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -17413,12 +18442,13 @@
     "owner": "SIL Global",
     "ownerRules": "https://tiny.cc/wbt-rules",
     "imgFilename": "smr_288gt - Roman Empire.jpg",
-    "titleKey": "title_roman_empire",
+    "mapGroup": "",
+    "refs": "LUK02, MAT22, ACT25",
     "title": {
       "en": "The Roman Empire during the time of Christ",
-      "es": "El Imperio Romano en la época de Cristo"
+      "es": "El Imperio Romano en tiempos de Cristo"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -17911,12 +18941,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_015fmo - abraham.jpg",
-    "titleKey": "title_ancient",
+    "mapGroup": "",
+    "refs": "GEN11, GEN12, GEN15",
     "title": {
       "en": "Abraham’s World",
       "es": "El mundo de Abraham"
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -18328,12 +19359,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_175fmo - acts_2.jpg",
-    "titleKey": "title_pent",
+    "mapGroup": "",
+    "refs": "ACT02",
     "title": {
       "en": "Nations Whose Languages Were Heard at Pentecost",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -18556,13 +19588,14 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_185fmo - acts_8.jpg",
-    "titleKey": "title_acts8",
+    "mapGroup": "",
+    "refs": "ACT08",
     "title": {
       "en": "Acts Chapter 8",
       "es": ""
     },
-    "description": {
-      "en": "",
+    "keywords": {
+      "en": "Ethiopian",
       "es": ""
     },
     "variants": {},
@@ -18721,12 +19754,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_190fmo - acts_9-11.jpg",
-    "titleKey": "antioch_pisidia",
+    "mapGroup": "",
+    "refs": "ACT09, ACT10, ACT11",
     "title": {
-      "en": "Antioch of Pisidia",
+      "en": "Acts Chapter 9-11",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -19039,12 +20073,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_143fmo - armor_of_god.jpg",
-    "titleKey": "title_soldier",
+    "mapGroup": "diagram",
+    "refs": "EPH06",
     "title": {
       "en": "The Armor of God",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -19132,12 +20167,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_030fmo - canaan_time_of_patriarchs.jpg",
-    "titleKey": "title_canaanHG",
+    "mapGroup": "",
+    "refs": "GEN12",
     "title": {
       "en": "Canaan  (Time of the Patriarchs)",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -19441,12 +20477,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_055fmo - exodus.jpg",
-    "titleKey": "title_exodus_and_canaan",
+    "mapGroup": "",
+    "refs": "EXO12, NUM13, JOS03",
     "title": {
       "en": "The Exodus and Canaan",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -19732,12 +20769,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_160fmo - galilee_samaria.jpg",
-    "titleKey": "title_galilee",
+    "mapGroup": "",
+    "refs": "MAT04, MRK01, JHN04",
     "title": {
       "en": "Galilee at the time of Jesus",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -20050,12 +21088,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_155fmo - israel_at_the_time_of_jesus.jpg",
-    "titleKey": "title_holy",
+    "mapGroup": "",
+    "refs": "MAT04, MRK01, LUK04",
     "title": {
       "en": "Israel in the Time of Jesus",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -20557,12 +21596,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_080fmo - israel_tribal_borders.jpg",
-    "titleKey": "title_israel_tribes",
+    "mapGroup": "",
+    "refs": "JOS13, JOS15, JOS18",
     "title": {
       "en": "Israel's Tribal Borders",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -20776,12 +21816,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_100fmo - jonah.jpg",
-    "titleKey": "jonah",
+    "mapGroup": "",
+    "refs": "JON01, JON02, JON03",
     "title": {
       "en": "Jonah",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -20995,12 +22036,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_235fmo - paul_123.jpg",
-    "titleKey": "title_j0",
+    "mapGroup": "",
+    "refs": "ACT13, ACT18, ACT20",
     "title": {
       "en": "Places Paul Visited",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -21727,12 +22769,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_225fmo - paul_4.jpg",
-    "titleKey": "title_j4",
+    "mapGroup": "",
+    "refs": "ACT27, ACT28",
     "title": {
       "en": "Paul's Fourth Journey (to Rome)",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -22126,12 +23169,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_288fmo - roman_empire.jpg",
-    "titleKey": "title_roman_empire",
+    "mapGroup": "",
+    "refs": "LUK02, MAT22, ACT25",
     "title": {
       "en": "The Roman Empire during the time of Christ",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -22435,12 +23479,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_090fmo - samuel_and_david.jpg",
-    "titleKey": "title_samuel_david",
+    "mapGroup": "",
+    "refs": "1SA04, 1SA17, 2SA05",
     "title": {
       "en": "Cities In The Time of Samuel and David",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -22969,12 +24014,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_091fmo - samuel_far.jpg",
-    "titleKey": "title_samuel_to_david",
+    "mapGroup": "",
+    "refs": "1SA01, 1SA16, 2SA05",
     "title": {
       "en": "Time of Samuel to David",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -23521,12 +24567,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_245fmo - seven_churches.jpg",
-    "titleKey": "title_7church",
+    "mapGroup": "",
+    "refs": "REV02, REV03",
     "title": {
       "en": "Seven Churches of Asia",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
@@ -23848,12 +24895,13 @@
     "owner": "fmosoft.com",
     "ownerRules": "https://tiny.cc/fmo-rules",
     "imgFilename": "smr_120fmo - tabernacle.jpg",
-    "titleKey": "title_tabernacle",
+    "mapGroup": "diagram",
+    "refs": "EXO25, EXO26, EXO40",
     "title": {
       "en": "The Tabernacle",
       "es": ""
     },
-    "description": {
+    "keywords": {
       "en": "",
       "es": ""
     },
